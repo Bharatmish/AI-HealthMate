@@ -12,14 +12,15 @@ import { useRef, useState } from "react";
 
 interface Props {
   onExtract: (text: string) => void;
+  onXrayResult: (result: string) => void;
 }
 
-const FileUpload = ({ onExtract }: Props) => {
+const FileUpload = ({ onExtract, onXrayResult }: Props) => {
   const inputRef = useRef<HTMLInputElement | null>(null);
   const [fileName, setFileName] = useState<string>("");
   const cardBg = useColorModeValue("gray.100", "gray.700");
 
-  const handleFile = async (type: "image" | "pdf") => {
+  const handleFile = async (type: "image" | "pdf" | "xray") => {
     const file = inputRef.current?.files?.[0];
     if (!file) return;
 
@@ -27,7 +28,9 @@ const FileUpload = ({ onExtract }: Props) => {
     const formData = new FormData();
     formData.append("file", file);
 
-    const endpoint = type === "image" ? "ocr/image" : "ocr/pdf";
+    const endpoint =
+      type === "image" ? "ocr/image" :
+      type === "pdf"   ? "ocr/pdf"   : "xray";
 
     try {
       const res = await fetch(`http://localhost:8000/${endpoint}`, {
@@ -35,11 +38,17 @@ const FileUpload = ({ onExtract }: Props) => {
         body: formData,
       });
       const data = await res.json();
-      onExtract(data.text);
+
+      if (type === "xray") {
+        onXrayResult(data.result || "🩻 No findings.");
+      } else {
+        onExtract(data.text || "✅ File processed.");
+      }
+
     } catch {
-      onExtract("❌ OCR extraction failed.");
+      const failMsg = "❌ File processing failed.";
+      type === "xray" ? onXrayResult(failMsg) : onExtract(failMsg);
     } finally {
-      // reset so user can select same file again if needed
       if (inputRef.current) inputRef.current.value = "";
       setFileName("");
     }
@@ -60,7 +69,7 @@ const FileUpload = ({ onExtract }: Props) => {
         justify="space-between"
         gap={3}
       >
-        {/* file chooser */}
+        {/* File chooser */}
         <Flex align="center" gap={2}>
           <Icon as={FiUpload} boxSize={6} color="purple.500" />
           <Input
@@ -73,28 +82,35 @@ const FileUpload = ({ onExtract }: Props) => {
           />
         </Flex>
 
-        {/* show file name */}
+        {/* Show file name */}
         {fileName && (
           <Text fontSize="sm" color="gray.600" noOfLines={1} maxW="200px">
             {fileName}
           </Text>
         )}
 
-        {/* action buttons */}
+        {/* Action buttons */}
         <Flex gap={2}>
           <Button
             colorScheme="purple"
             variant="outline"
             onClick={() => handleFile("image")}
           >
-            OCR Image
+            OCR Image
           </Button>
           <Button
             colorScheme="orange"
             variant="solid"
             onClick={() => handleFile("pdf")}
           >
-            OCR PDF
+            OCR PDF
+          </Button>
+          <Button
+            colorScheme="red"
+            variant="ghost"
+            onClick={() => handleFile("xray")}
+          >
+            Analyze X-ray
           </Button>
         </Flex>
       </Flex>
