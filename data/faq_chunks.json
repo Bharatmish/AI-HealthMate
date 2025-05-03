@@ -1,0 +1,3565 @@
+[
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Clean",
+      "question": "How do I clean the DreamStation BiPAP device?",
+      "answer": "Unplug the device and wipe the outside with a cloth dampened with water and mild detergent. Let it dry completely before reconnecting power."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Clean",
+      "question": "Can I immerse the DreamStation BiPAP in water while cleaning?",
+      "answer": "No. Never immerse the device in any fluids. Always unplug before cleaning."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Clean",
+      "question": "Do I need to clean the DreamStation BiPAP tubing every day?",
+      "answer": "Yes, the tubing should be hand washed daily using warm water and mild dish soap. Rinse thoroughly and air dry."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Error",
+      "question": "What does the 'Service Required' alert mean?",
+      "answer": "It indicates a serious error that puts the device in Safe State. Disconnect and reconnect power. If the alert persists, contact your provider."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Error",
+      "question": "Why does the 'Check Power' alert appear?",
+      "answer": "It appears when an incompatible power supply is attached or not fully inserted. Ensure you use a Philips Respironics power supply."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Error",
+      "question": "What does 'Heated Tube Error' mean on the DreamStation?",
+      "answer": "It means the heated tube may be overheated or damaged. Turn off the device, reattach the tube, and contact support if it persists."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Setup",
+      "question": "How do I set up the DreamStation BiPAP device?",
+      "answer": "Connect the tubing to the air outlet, plug in the power, and attach the mask. Use the Therapy button to start airflow."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Setup",
+      "question": "Where should I place the DreamStation BiPAP device during use?",
+      "answer": "Place the device on a firm, flat surface below your sleeping position, away from bedding or curtains that might block airflow."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Maintenance",
+      "question": "How often should I rinse the reusable filter?",
+      "answer": "Rinse the reusable blue pollen filter every two weeks and replace it every 6 months."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Maintenance",
+      "question": "What should I do if the humidifier water runs out quickly?",
+      "answer": "Check for leaks, ensure the chamber is full, reduce settings, or switch to Adaptive humidification mode."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Maintenance",
+      "question": "Why should I avoid using wet filters in the DreamStation BiPAP?",
+      "answer": "Wet filters can affect device performance and may lead to malfunction. Always allow filters to air dry completely before reinstalling."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Alert",
+      "question": "What happens when an Alert 2 is triggered?",
+      "answer": "An Alert 2 includes a pop-up, blinking LED, and audible beep and may occur during therapy. Follow the on-screen instructions or contact support."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Alert",
+      "question": "What is the 'Inlet blocked. Check filter.' alert on the DreamStation?",
+      "answer": "It means there's a blockage at the device air inlet. Check and clean the filters, and ensure nothing is blocking airflow."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Troubleshooting",
+      "question": "What should I do if the device doesn't turn on?",
+      "answer": "Check the outlet, power connections, and use the Performance Check tool. Contact your provider if unresolved."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Troubleshooting",
+      "question": "What should I do if the display becomes erratic?",
+      "answer": "Unplug the device and move it away from electronic equipment. If the issue continues, contact your provider."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Filter",
+      "question": "What types of filters are used in the DreamStation BiPAP?",
+      "answer": "It uses a reusable blue pollen filter and an optional disposable light-blue ultra-fine filter."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Filter",
+      "question": "How do I know when to change the filter on my DreamStation?",
+      "answer": "The device will display a filter reminder every 30 days. Replace the ultra-fine filter every 30 nights or sooner if dirty."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Battery",
+      "question": "Can I power the DreamStation BiPAP using DC battery?",
+      "answer": "Yes, using the Philips Respironics DC power cord and adapter. Do not use while a vehicle engine is running."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Tube",
+      "question": "How should I clean the tubing?",
+      "answer": "Disconnect tubing, hand wash with warm water and dish soap, rinse thoroughly, and air dry daily."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Connect",
+      "question": "How do I connect the breathing circuit to the device?",
+      "answer": "Attach tubing to the air outlet port and mask. Secure connections and inspect for damage or wear."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Connect",
+      "question": "Can I use bacteria filters with my DreamStation BiPAP?",
+      "answer": "Yes, especially if the device is used by multiple people. Connect it between the device and the tubing."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Start",
+      "question": "How do I start therapy on the device?",
+      "answer": "Press the Therapy button after wearing the mask to initiate airflow. Adjust mask to prevent leaks."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Start",
+      "question": "What should I check before starting the therapy session?",
+      "answer": "Ensure the mask is fitted properly, no major leaks are present, and the device is powered on and ready."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Mask",
+      "question": "How do I check my mask fit?",
+      "answer": "Use the 'Check Mask Fit' feature. A green bar means good fit, red means adjustment is needed."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Mask",
+      "question": "How does the 'Check Mask Fit' feature work?",
+      "answer": "It delivers a test pressure for 40 seconds and shows a green or red bar to indicate the quality of the mask seal."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Display",
+      "question": "Is the DreamStation display a touchscreen?",
+      "answer": "No. Use the control dial to navigate and select options on the screen."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Power",
+      "question": "What should I check if there is no power?",
+      "answer": "Verify that all power cords are fully connected, the outlet is functional, and the device is not damaged."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Power",
+      "question": "Can I use extension cords with the DreamStation?",
+      "answer": "No. Do not use extension cords with this device as it may cause electrical issues or safety hazards."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Replace",
+      "question": "When should I replace the ultra-fine filter?",
+      "answer": "Replace the ultra-fine filter after 30 nights of use or sooner if it looks dirty or damaged."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Light",
+      "question": "How is the screen brightness controlled?",
+      "answer": "The ambient light sensor adjusts display brightness automatically based on room light."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Alarm",
+      "question": "What should I do if there's a 'Low Voltage' alarm?",
+      "answer": "Ensure you are using a charged battery or a compatible Philips Respironics power supply."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Alarm",
+      "question": "What causes the 'Automatic Off' alarm?",
+      "answer": "It indicates that therapy ended due to mask removal. Put your mask back on and restart therapy."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Humidity",
+      "question": "How can I adjust humidity levels?",
+      "answer": "Use the control dial to adjust humidifier settings from 0 to 5. Adaptive and Fixed modes are available."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Humidity",
+      "question": "What is the difference between Fixed and Adaptive humidification modes?",
+      "answer": "Fixed mode delivers a constant humidity setting, while Adaptive mode automatically adjusts to ambient conditions."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Sleep",
+      "question": "How can I track my sleep usage?",
+      "answer": "Use the 'Sleep Progress' feature to view a 3-night summary and track 4+ hour sessions over 30 days."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Sleep",
+      "question": "How does the device determine sleep progress?",
+      "answer": "It tracks hours of use and displays a summary for the last 3 sessions and 30-day compliance with usage goals."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Ramp",
+      "question": "What does the Ramp button do?",
+      "answer": "It lowers the pressure at the beginning of therapy to help you fall asleep, then gradually increases it to your prescribed setting."
+    },
+    {
+      "product": "Philips DreamStation BiPAP",
+      "category": "Ramp",
+      "question": "What is the SmartRamp feature?",
+      "answer": "SmartRamp holds a lower pressure until the device detects a need for higher pressure, then ramps up accordingly."
+    },
+    {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Clean",
+        "question": "How should the ventilator exterior be cleaned?",
+        "answer": "Turn off and unplug ventilator. Use lint-free cloth dampened with dish detergent (1 tsp per gallon warm water), followed by a rinse with clean water and drying with a lint-free cloth."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Clean",
+        "question": "What should be used to disinfect the ventilator?",
+        "answer": "Use a lint-free cloth dampened with 70% isopropyl alcohol or a bleach solution (10:1 water to bleach), and ensure surfaces remain wet for 10 minutes before air drying."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Error",
+        "question": "What should be done if EVT_WATCHDOG_FAILURE occurs?",
+        "answer": "Reinstall software and replace the system PCBA."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Error",
+        "question": "What is the action for EVT_PROGRAM_CRC_FAILURE?",
+        "answer": "Reinstall the software."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Setup",
+        "question": "What is the procedure for initial ventilator setup?",
+        "answer": "Connect ventilator to AC power, connect required components, start device, configure circuit settings in menu, and activate FiO₂ sensor."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Maintenance",
+        "question": "How often should the particulate filter be replaced?",
+        "answer": "Monthly and between patients."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Maintenance",
+        "question": "What is involved in the 8-year PM?",
+        "answer": "Replace air inlet foam filter, blower, and particulate filter, and perform performance verification."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Alert",
+        "question": "What should you do if a Disconnect alarm triggers?",
+        "answer": "Verify alarm setting, circuit connection, check for leaks and proper functioning of valves, and perform performance verification."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Troubleshooting",
+        "question": "How do you evaluate logs after a fault?",
+        "answer": "Connect device to SD&T tool, read event logs, compare with diagnostic codes, save and email log if needed."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Filter",
+        "question": "How to clean and reinstall the air inlet foam filter?",
+        "answer": "Remove, rinse with water, allow to air dry, and reinstall or replace."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Battery",
+        "question": "How is the detachable battery cleaned?",
+        "answer": "Wipe with a lint-free cloth dampened with detergent, brush tight areas, rinse with clean water, dry, and reinsert."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Tube",
+        "question": "What type of circuit is set up in initial configuration?",
+        "answer": "A dual-limb circuit with active humidification off and adult size (20-22 mm) tubing."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Start",
+        "question": "How to start the ventilator?",
+        "answer": "Press the On/Off button, listen for three beeps, ensure no errors, then proceed with setup."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Display",
+        "question": "How does the display indicate system status during setup?",
+        "answer": "It shows no error messages, and the light bar and Alarm Silence button blink once red and once yellow."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Power",
+        "question": "How to disconnect all power from the device?",
+        "answer": "Turn off, unplug AC and external DC power, remove detachable and internal batteries using proper tools."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Replace",
+        "question": "Which parts are replaced during 4-year PM?",
+        "answer": "Air inlet foam filter and particulate filter."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Light",
+        "question": "What do the light indicators signify during startup?",
+        "answer": "Light bar and Alarm Silence button blink once red and once yellow to indicate a successful system check."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Alarm",
+        "question": "What tests are performed daily for alarms?",
+        "answer": "Test apnea, low tidal volume, low minute ventilation, and low respiratory rate alarms."
+      },
+      {
+        "product": "Philips Trilogy EV300 Ventilator",
+        "category": "Humidity",
+        "question": "How is humidification configured during setup?",
+        "answer": "Active Humidification is set to Off in the Circuit Settings tab."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Clean",
+        "question": "How do I wipe down the External Battery Module after daily use?",
+        "answer": "Use a soft cloth lightly dampened with water only, then dry the surface immediately. Do not spray cleaners directly on the module."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Clean",
+        "question": "May I immerse or rinse the module under running water?",
+        "answer": "No. Never immerse the External Battery Module or place it under running water—the housing is not sealed."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Error",
+        "question": "What should I do if the module is physically cracked or will not power the SimplyGo?",
+        "answer": "Discontinue use, discard and replace the module, and contact your home-care provider or Philips Respironics Customer Service for guidance."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Error",
+        "question": "How do I report a serious incident involving this module?",
+        "answer": "Notify Philips Respironics and the competent authority in your country as required; contact information is provided in the instructions for use."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Setup",
+        "question": "Which battery must be inserted before connecting the module?",
+        "answer": "Insert only a Philips Respironics lithium-ion battery (REF 1082662) that is fully charged."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Setup",
+        "question": "Should the SimplyGo be ON or OFF when I attach the module?",
+        "answer": "Always plug the module into the SimplyGo while the device is turned OFF."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Maintenance",
+        "question": "What routine inspection is required before each use?",
+        "answer": "Visually check the module for cracks, wear, or loose connectors; replace it if any damage is noted."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Maintenance",
+        "question": "Are there any user-serviceable parts inside the module?",
+        "answer": "No. The enclosure must not be opened; there are no parts that the user can service."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Alert",
+        "question": "How can I view the external battery’s remaining charge?",
+        "answer": "Remove the battery from the module and press the indicator button to display the LED capacity lights."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Alert",
+        "question": "Does the SimplyGo screen alert me when the external battery is low?",
+        "answer": "No. The SimplyGo screen tracks only the internal battery. Check the external battery’s LEDs for its status."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Troubleshooting",
+        "question": "Why does the external battery appear to lose charge quickly?",
+        "answer": "Confirm it was fully charged, verify you are using an approved Philips battery, and inspect the module for damage that could interrupt power delivery."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Troubleshooting",
+        "question": "The SimplyGo will not power on with the module attached—what should I check first?",
+        "answer": "Ensure the battery is inserted in the module, the module is firmly seated in the SimplyGo, and the battery is charged; if the issue persists, contact support."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Filter",
+        "question": "Does the module contain air filters that need replacement?",
+        "answer": "No. It provides electrical power only and includes no filters."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Filter",
+        "question": "Should I clean or disinfect any filter screens on the module?",
+        "answer": "No filter screens are present, so no filter cleaning is needed."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Battery",
+        "question": "Can I recharge the external battery without removing it from the module?",
+        "answer": "Yes. You may charge it through the SimplyGo device or with the Philips Respironics Smart Charger while it remains in the module."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Battery",
+        "question": "What happens when the external battery is depleted during use?",
+        "answer": "The SimplyGo automatically switches to its internal battery without interrupting therapy."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Tube",
+        "question": "Do I need to attach any air tubing to the External Battery Module?",
+        "answer": "No. The module is a power accessory and has no tubing connections."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Tube",
+        "question": "Does the module affect oxygen tubing or cannula connections?",
+        "answer": "No. It does not interface with oxygen delivery tubing."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Connect",
+        "question": "What is the correct sequence for connecting the module?",
+        "answer": "1) Charge battery. 2) Insert battery into module. 3) Plug module into SimplyGo while the device is OFF."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Connect",
+        "question": "When should I disconnect the module?",
+        "answer": "Unplug the module from SimplyGo whenever the device is turned OFF or when storing the equipment."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Start",
+        "question": "How do I begin therapy using the module?",
+        "answer": "With the fully charged battery installed and the module connected, turn the SimplyGo ON—the device will automatically draw power from the external battery."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Start",
+        "question": "Do I press any extra buttons on the module to start power delivery?",
+        "answer": "No. Power delivery is automatic once the SimplyGo is switched ON."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Mask",
+        "question": "Does the module require a specific patient mask?",
+        "answer": "No. Masks relate to the oxygen concentrator function, not to this power accessory."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Mask",
+        "question": "Will changing my mask settings affect the module?",
+        "answer": "No. Mask settings have no effect on battery operation."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Display",
+        "question": "Why doesn’t the SimplyGo display show my external battery’s LED reading?",
+        "answer": "Because the external battery LEDs are on the battery itself; the SimplyGo display tracks only the internal battery status."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Display",
+        "question": "Where can I find information about the external battery on the SimplyGo screen?",
+        "answer": "The SimplyGo screen will not display external battery information—check the LEDs on the battery instead."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Power",
+        "question": "Which battery does SimplyGo use first when the module is attached?",
+        "answer": "It uses the external battery first and switches to the internal battery automatically when depleted."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Power",
+        "question": "Is there any risk of power interruption when switching from external to internal battery?",
+        "answer": "No. The changeover is automatic and seamless."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Replace",
+        "question": "When must I replace the lithium-ion battery used in the module?",
+        "answer": "Replace the battery when its capacity is noticeably reduced or it fails to hold a charge, following your provider’s guidance."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Replace",
+        "question": "How do I dispose of the External Battery Module at end-of-life?",
+        "answer": "Dispose of it in accordance with local electronic-waste recycling regulations or return it to your provider for proper disposal."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Light",
+        "question": "Does the module itself contain indicator lights?",
+        "answer": "No. Only the battery features LED indicators, visible when the battery is removed from the module."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Light",
+        "question": "What do the LEDs on the battery signify?",
+        "answer": "The LEDs show the charge level; more lit LEDs indicate a higher remaining capacity."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Alarm",
+        "question": "Does the External Battery Module emit audible alarms?",
+        "answer": "No. It has no alarm circuitry; any alarms originate from the SimplyGo device itself."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Alarm",
+        "question": "Are daily alarm tests required on the module?",
+        "answer": "No. Alarm tests apply to ventilators; the module is a passive power accessory."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Humidity",
+        "question": "Can I use the module in a humid bathroom while showering?",
+        "answer": "Do not expose the module to high humidity or water spray—keep it in a dry location."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Humidity",
+        "question": "Does condensation affect the module’s performance?",
+        "answer": "Yes. Moisture can damage electronics; always keep the module dry."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Sleep",
+        "question": "Will the module change function during patient sleep cycles?",
+        "answer": "No. It supplies constant power regardless of patient sleep or wake status."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Sleep",
+        "question": "Does the module enter a sleep mode when not in use?",
+        "answer": "No. It remains inactive until SimplyGo draws power, but it has no separate sleep mode."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Ramp",
+        "question": "Can I configure a gradual ramp-up of power delivery from the module?",
+        "answer": "No. The module provides full power immediately; ramp features are handled in the therapy device, not in the battery module."
+      },
+      {
+        "product": "Philips Respironics SimplyGo External Battery Module",
+        "category": "Ramp",
+        "question": "Does the module support ramp-down when disconnecting?",
+        "answer": "No. Power flow stops as soon as the module is unplugged or the battery is depleted."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Clean",
+        "question": "Which detergent solution is validated for routine wipe-down of the monitor housing and screen?",
+        "answer": "Use an enzymatic detergent such as Prolystica Manual 2X, Cidezyme, or Enzol diluted per the maker’s instructions, then wipe all exterior surfaces for at least two minutes."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Clean",
+        "question": "How do I prevent liquid from entering the monitor while cleaning?",
+        "answer": "Never pour or spray liquid on the device; wipe around—not over—connector openings and never immerse any part of the equipment."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Error",
+        "question": "What does the technical INOP message “Unsupported LAN” mean?",
+        "answer": "The monitor has a network link but cannot communicate or obtain an IP address; check cabling or Wi-Fi access and restart the monitor if needed."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Error",
+        "question": "How should I respond to the INOP 'Speaker Malfunct'?",
+        "answer": "A buzzer tone and this INOP indicate a defective speaker or wiring; the speaker must be inspected and repaired by qualified service personnel."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Setup",
+        "question": "How do I turn arrhythmia analysis on or off?",
+        "answer": "Open the Setup Arrhy menu, select Arrhythmia, choose On or Cardiotach, and confirm the selection."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Setup",
+        "question": "Where can I select the leads used for ST-segment analysis?",
+        "answer": "Go to Setup ST Analysis, open Setup ST Leads, then add or delete leads as required."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Maintenance",
+        "question": "How often must formal safety checks be performed?",
+        "answer": "Perform safety checks at least every two years, after any power-supply repair, or if the monitor has been dropped."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Maintenance",
+        "question": "What visual inspection should be done before each use?",
+        "answer": "With the monitor off, examine the housing for cracks or spills and check all accessories and cables for damage before powering on."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Alert",
+        "question": "Which icons show that the bed is NOT monitored at the central station?",
+        "answer": "If both the wired and wireless network icons disappear and the message 'No Central Monitoring' is displayed, the bed is not being watched centrally."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Alert",
+        "question": "How does the monitor indicate network connection without an IP address?",
+        "answer": "Both wired and wireless icons flash in reverse video and an 'Unsupported LAN' INOP appears after about one minute."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Troubleshooting",
+        "question": "Where can I find detailed status logs for diagnostics?",
+        "answer": "Select Main Setup, choose Revisions, pick the device—such as Monitor—and tap Status Log to view stored error entries."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Troubleshooting",
+        "question": "What first steps help restore IntelliBridge communication if it is lost?",
+        "answer": "Check baud-rate and cabling, then unplug and re-insert the EC10 module; replace or service the module if the fault persists."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Filter",
+        "question": "Does the bedside monitor itself contain filters to replace?",
+        "answer": "No. The monitor has no internal air or bacterial filters; only external accessories such as the gas-analyzer water trap require maintenance."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Filter",
+        "question": "May I clean the interior of the G7m water trap with liquid?",
+        "answer": "No. Never immerse or soak the water trap; wipe its exterior only."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Battery",
+        "question": "What does the INOP 'Tele Battery Low' signify?",
+        "answer": "The battery in the telemetry transmitter is nearly depleted and should be replaced soon."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Battery",
+        "question": "Does the MX750/850 have an internal backup battery?",
+        "answer": "No. The monitor operates only from mains power; battery INOPs relate to attached telemetry units."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Tube",
+        "question": "How often should gas-sampling tubing be checked?",
+        "answer": "Perform a leak and flow-rate check, including the sample-gas tubing, at least once per year."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Tube",
+        "question": "Can the G7m water trap be immersed during cleaning?",
+        "answer": "No. Never submerge the water trap in any liquid; clean only its exterior."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Connect",
+        "question": "Which on-screen status shows a LAN link but no IP address?",
+        "answer": "Wired and wireless icons appear in inverse video and the 'Unsupported LAN' INOP is displayed."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Connect",
+        "question": "How do I restore communication after unplugging the EC10 module?",
+        "answer": "Re-insert the EC10 into its rack and acknowledge the INOP; the measurement resumes when the module is detected."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Start",
+        "question": "What self-test occurs at power-on?",
+        "answer": "All alarm lamps light sequentially and a single tone sounds so caregivers can verify the indicators."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Start",
+        "question": "Which alarm settings may change after a restart lasting more than one minute?",
+        "answer": "Depending on configuration, the monitor may reload default profile limits, restore the previous limits, or leave alarms off; limits should always be checked after reboot."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Mask",
+        "question": "Does the monitor IFU specify special patient mask requirements?",
+        "answer": "No. Mask selection and reprocessing are not covered in the monitor instructions; follow your facility’s protocols."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Mask",
+        "question": "Will changing an oxygen mask affect monitor measurements?",
+        "answer": "The monitor operates independently of mask choice, so measurements remain unaffected."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Display",
+        "question": "How do I lock the touchscreen during cleaning?",
+        "answer": "Press and hold the Screen key until a padlock icon appears; press and hold again to unlock when finished."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Display",
+        "question": "Which gesture switches to the next configured screen layout?",
+        "answer": "Swipe two fingers left or right across the touchscreen to move to the next Screen."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Power",
+        "question": "How does the monitor indicate a loss of central monitoring even with LAN connectivity?",
+        "answer": "The message 'No Central Monitoring' appears and the network icons remain visible, showing that the bed is not watched centrally."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Power",
+        "question": "Which options control alarm behavior after a long power loss?",
+        "answer": "Configuration allows restoring default profile limits, re-loading previous limits, or keeping alarms off; clinicians must verify limits on restart."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Replace",
+        "question": "How can I restore print quality if the recorder output fades in horizontal stripes?",
+        "answer": "Run a cloth cleaning strip through the printhead; replace the printhead if stripes persist."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Replace",
+        "question": "When must a damaged inline temperature probe be discarded?",
+        "answer": "Discard and replace the probe if it shows tears, cracks, or heavy soiling during inspection."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Light",
+        "question": "How are alarm lamps verified each day?",
+        "answer": "Lamp functionality is confirmed during the automatic power-on self-test when all lamps illuminate in sequence."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Light",
+        "question": "Which INOP appears if an alarm lamp fails?",
+        "answer": "'Check Alarm Lamps' appears, directing staff to inspect the lamps and arrange service if a lamp or its wiring is faulty."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Alarm",
+        "question": "What daily alarm test occurs automatically at power-on?",
+        "answer": "The self-test lights all alarm lamps and sounds a tone, confirming that audible and visual alarm indicators work."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Alarm",
+        "question": "Can the monitor trigger strip-chart recordings automatically during alarms?",
+        "answer": "Yes. Enable Alarm Recordings in Main Setup so the monitor starts local or central recordings whenever an alarm is generated."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Humidity",
+        "question": "Why must the monitor dry completely after cleaning?",
+        "answer": "Residual moisture can corrode connectors and impair measurements, so all parts must be thoroughly dried before use."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Humidity",
+        "question": "Is it acceptable to operate the monitor where it might be exposed to water spray?",
+        "answer": "No. The housing is not sealed against moisture; do not operate or store the monitor in locations exposed to water or high humidity."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Sleep",
+        "question": "Does the monitor enter an automatic sleep mode?",
+        "answer": "The monitor does not include an automatic energy-saving sleep or standby mode; it remains active unless manually dimmed or switched off."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Sleep",
+        "question": "How can inadvertent touches be avoided while patients sleep?",
+        "answer": "Lock the touchscreen with the Screen key padlock so accidental contact cannot change settings."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Ramp",
+        "question": "Does the monitor provide a ramp-up or ramp-down feature for alarm tones?",
+        "answer": "No. Alarm tone volume changes take effect immediately when configured; there is no ramp function."
+      },
+      {
+        "product": "Philips IntelliVue MX750/MX850 Patient Monitor",
+        "category": "Ramp",
+        "question": "Can the duration of the power-on self-test be lengthened?",
+        "answer": "No. The self-test runs at a fixed speed required for safety verification and cannot be altered."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Clean",
+        "question": "How should I clean the exterior of the EverFlo concentrator?",
+        "answer": "Wipe the cabinet with a damp cloth and mild detergent. Ensure the device is unplugged before cleaning and avoid using abrasive cleaners or immersing any part of the unit in water."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Clean",
+        "question": "How do I clean or replace the filters in the EverFlo concentrator?",
+        "answer": "The foam cabinet filter can be removed, rinsed with warm water, and air-dried before reinstalling. The internal micro-disk filter is not user-serviceable and should be replaced by a qualified technician as needed."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Error",
+        "question": "What does it mean when all three LEDs are illuminated and the audible alarm is sounding continuously?",
+        "answer": "This indicates a system malfunction. Immediately turn off the device, connect to a backup oxygen source, and contact your home care provider for assistance."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Error",
+        "question": "What should I do if the red LED is on continuously and the audible alarm is sounding?",
+        "answer": "This suggests a system malfunction. Turn off the device, wait five minutes, and restart it. If the condition persists, switch to a backup oxygen source and contact your home care provider."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Setup",
+        "question": "How do I set up the EverFlo concentrator for use without a humidifier?",
+        "answer": "Connect your nasal cannula directly to the oxygen outlet port. Ensure the flow meter is set to your prescribed flow rate before turning on the device."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Setup",
+        "question": "How do I set up the EverFlo concentrator for use with a humidifier bottle?",
+        "answer": "Fill the humidifier bottle with distilled water between the minimum and maximum levels. Attach it securely to the designated holder, connect the tubing from the oxygen outlet to the humidifier inlet, and then connect your nasal cannula to the humidifier outlet."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Maintenance",
+        "question": "How often should the filters be checked or replaced?",
+        "answer": "The foam cabinet filter should be cleaned monthly or as needed. The internal micro-disk filter should be checked and replaced by a qualified technician as per the manufacturer's recommendations or if oxygen purity is compromised."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Maintenance",
+        "question": "What routine maintenance is recommended for the EverFlo concentrator?",
+        "answer": "Regularly clean the exterior cabinet, ensure the device is placed in a well-ventilated area, and have the oxygen concentration levels checked periodically by your home care provider."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Alert",
+        "question": "What does a yellow LED indicator signify on the EverFlo concentrator?",
+        "answer": "A yellow LED indicates a system check is required. It may suggest low oxygen purity or another issue. Continue using the device but contact your home care provider to inspect the unit."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Alert",
+        "question": "What should I do if the red LED is illuminated and the audible alarm is sounding?",
+        "answer": "This indicates a system malfunction. Turn off the device, connect to a backup oxygen source, and contact your home care provider immediately."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Troubleshooting",
+        "question": "What should I do if the yellow LED is illuminated continuously, the red LED is blinking, and the audible alarm is beeping periodically?",
+        "answer": "This indicates an impeded oxygen flow. Check for kinks or blockages in the tubing, ensure the flow meter is set correctly, and verify that the humidifier bottle (if used) is properly filled and connected."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Troubleshooting",
+        "question": "Why is the green LED off and the audible alarm sounding continuously?",
+        "answer": "This suggests the device is not receiving power. Ensure the power cord is properly plugged into a functioning outlet and that there are no issues with the power supply. If the problem persists, contact your home care provider."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Filter",
+        "question": "How often should the air inlet filter be replaced?",
+        "answer": "The air inlet filter should be inspected quarterly and gently cleaned with a dry brush. If the filter appears damaged or very dirty, it needs to be replaced."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Filter",
+        "question": "What is the function of the intake filter in the EverFlo concentrator?",
+        "answer": "The intake filter screens ambient air as it passes into the oxygen concentrator, capturing dust and other airborne pollutants to ensure clean oxygen delivery."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Battery",
+        "question": "Does the EverFlo concentrator have a backup battery?",
+        "answer": "No, the EverFlo is a stationary oxygen concentrator that operates solely on AC power and does not have a built-in backup battery."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Battery",
+        "question": "Can I use a battery backup with the EverFlo concentrator?",
+        "answer": "While the EverFlo does not have an internal battery, you can use an external uninterruptible power supply (UPS) as a backup power source during outages."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Tube",
+        "question": "How should I maintain the oxygen tubing connected to the EverFlo?",
+        "answer": "Regularly inspect the tubing for kinks, blockages, or signs of wear. Replace the tubing as recommended by your home care provider or if any damage is observed."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Tube",
+        "question": "What length of oxygen tubing is recommended for use with the EverFlo?",
+        "answer": "The EverFlo is compatible with oxygen tubing lengths ranging from 7 feet (2.13 meters) up to 50 feet (15.2 meters). Ensure the tubing length does not impede oxygen flow."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Connect",
+        "question": "Can I connect the EverFlo concentrator to a humidifier?",
+        "answer": "Yes, the EverFlo has a designated outlet port for connecting a humidifier bottle. Use the provided humidifier connector tube to attach the bottle securely."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Connect",
+        "question": "Is it possible to use the EverFlo with other oxygen delivery accessories?",
+        "answer": "Yes, the EverFlo is compatible with various oxygen delivery accessories like nasal cannulas and masks. Ensure all accessories are compatible and approved for use with the device."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Start",
+        "question": "What should I do before starting the EverFlo concentrator?",
+        "answer": "Ensure the device is plugged into a functioning electrical outlet, the oxygen tubing is connected properly, and the flow meter is set to your prescribed flow rate before turning on the device."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Start",
+        "question": "How do I know the EverFlo concentrator is operating correctly after startup?",
+        "answer": "After turning on the device, all LEDs will illuminate briefly, and the audible alarm will beep. Subsequently, only the green LED should remain lit, indicating normal operation."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Mask",
+        "question": "Can I use a face mask instead of a nasal cannula with the EverFlo?",
+        "answer": "Yes, the EverFlo can be used with a face mask. Ensure the mask is compatible with oxygen therapy and is connected properly to the oxygen tubing."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Mask",
+        "question": "Are there specific masks recommended for use with the EverFlo?",
+        "answer": "While the EverFlo is compatible with various oxygen masks, it's essential to use masks that are approved for oxygen therapy and recommended by your healthcare provider."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Display",
+        "question": "What do the LED indicators on the EverFlo signify?",
+        "answer": "The green LED indicates normal operation, the yellow LED suggests a system check is required, and the red LED signifies a system malfunction."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Display",
+        "question": "Is there a digital display on the EverFlo concentrator?",
+        "answer": "No, the EverFlo uses LED indicators to convey operational status and does not have a digital display."
+      },
+      {
+        "product": "Philips EverFlo Oxygen Concentrator",
+        "category": "Power",
+        "question": "What power source does the EverFlo concentrator use?",
+        "answer": "The EverFlo operates on standard AC power. Ensure the device is plugged into a properly grounded electrical outlet."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Clean",
+        "question": "How should I clean the exterior of the InnoSpire Essence nebulizer?",
+        "answer": "Wipe the exterior of the compressor with a clean, damp cloth. Ensure the device is unplugged before cleaning and avoid using abrasive cleaners or immersing any part of the unit in water."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Clean",
+        "question": "How do I clean the nebulizer parts after each use?",
+        "answer": "Disassemble the nebulizer parts (excluding the tubing) and wash them in warm, soapy water. Rinse thoroughly and allow them to air dry on a clean towel."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Error",
+        "question": "What should I do if the nebulizer is not producing mist?",
+        "answer": "Ensure all connections are secure, the compressor is turned on, and the nebulizer cup is properly assembled with medication. If the issue persists, refer to the troubleshooting section or contact customer support."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Setup",
+        "question": "How do I set up the InnoSpire Essence nebulizer for use?",
+        "answer": "Place the compressor on a flat surface, connect the tubing to the compressor and nebulizer cup, add prescribed medication to the cup, attach the mouthpiece or mask, and turn on the compressor to begin treatment."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Maintenance",
+        "question": "How often should I replace the air filter?",
+        "answer": "Replace the air filter when it appears discolored or wet. Regularly inspect the filter to ensure optimal performance."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Alert",
+        "question": "Are there any alerts or indicators on the InnoSpire Essence nebulizer?",
+        "answer": "The InnoSpire Essence does not have electronic alerts or indicators. Users should monitor for changes in performance and consult the manual for guidance."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Troubleshooting",
+        "question": "What should I do if the device does not turn on?",
+        "answer": "Ensure the power cord is securely plugged into a functioning outlet. If the device still doesn't operate, check the fuse or contact customer support for assistance."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Filter",
+        "question": "How do I replace the air filter?",
+        "answer": "Locate the filter cover on the side of the compressor, remove the old filter, insert a new one, and securely close the cover."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Battery",
+        "question": "Does the InnoSpire Essence nebulizer have a battery?",
+        "answer": "No, the InnoSpire Essence is a plug-in device and does not operate on battery power."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Tube",
+        "question": "How should I maintain the tubing?",
+        "answer": "Regularly inspect the tubing for kinks or blockages. Replace the tubing as recommended or if any damage is observed."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Connect",
+        "question": "Can I use different nebulizer cups with the InnoSpire Essence?",
+        "answer": "It's recommended to use the SideStream nebulizer cups provided or approved by Philips to ensure optimal performance."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Start",
+        "question": "How do I start a treatment session?",
+        "answer": "After setting up the device and adding medication, turn on the compressor using the power switch. Breathe in the aerosol through the mouthpiece or mask until the medication is fully administered."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Mask",
+        "question": "Can I use a face mask instead of a mouthpiece?",
+        "answer": "Yes, the InnoSpire Essence can be used with a compatible face mask, especially beneficial for children or those who have difficulty using a mouthpiece."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Display",
+        "question": "Does the InnoSpire Essence have a display screen?",
+        "answer": "No, the device does not feature a display screen. It operates with a simple on/off switch."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Power",
+        "question": "What power source does the InnoSpire Essence use?",
+        "answer": "The device operates on standard AC power. Ensure it's plugged into a properly grounded electrical outlet."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Replace",
+        "question": "How often should I replace the nebulizer cup?",
+        "answer": "Replace the disposable nebulizer cup after 30 days of use or as recommended. Reusable cups should be replaced every 6 months or if they show signs of wear."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Light",
+        "question": "Does the device have any indicator lights?",
+        "answer": "No, the InnoSpire Essence does not have indicator lights. Users should monitor the device's performance manually."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Alarm",
+        "question": "Does the InnoSpire Essence emit any alarms?",
+        "answer": "No, the device does not have built-in alarms. Users should be attentive to any changes in operation or performance."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Humidity",
+        "question": "Can I add humidification to the nebulizer treatments?",
+        "answer": "The InnoSpire Essence is designed for aerosol medication delivery and does not support additional humidification features."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Sleep",
+        "question": "Is it safe to use the nebulizer before bedtime?",
+        "answer": "Yes, using the nebulizer before sleep is common, especially if prescribed. Ensure the device is turned off and unplugged after use."
+      },
+      {
+        "product": "Philips InnoSpire Essence Nebulizer",
+        "category": "Ramp",
+        "question": "Does the InnoSpire Essence have a ramp feature?",
+        "answer": "No, the device does not have a ramp feature. It delivers medication at a consistent rate during operation."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Clean",
+        "question": "How should I clean the exterior surfaces of the MX700 monitor?",
+        "answer": "Use a soft, lint-free cloth dampened with a mild detergent solution. Avoid abrasive cleaners and ensure no liquid enters the device openings."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Clean",
+        "question": "Can I use disinfectants on the MX700 monitor?",
+        "answer": "Yes, approved disinfectants can be used. Refer to the manufacturer's guidelines for a list of compatible disinfectants."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Error",
+        "question": "What does an 'ECG Leads Off' error indicate?",
+        "answer": "This error means that one or more ECG leads are disconnected or not properly attached to the patient. Check all lead connections."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Error",
+        "question": "How do I resolve a 'SpO2 Sensor Off' error?",
+        "answer": "Ensure the SpO2 sensor is correctly attached to the patient and connected to the monitor. Replace the sensor if the issue persists."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Setup",
+        "question": "How do I configure the monitor for a new patient?",
+        "answer": "Access the 'Patient Demographics' menu to enter new patient information and select the appropriate monitoring profile."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Setup",
+        "question": "Can I customize the display layout?",
+        "answer": "Yes, the MX700 allows customization of waveforms and parameter displays through the 'Screen Setup' menu."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Maintenance",
+        "question": "How often should the monitor be serviced?",
+        "answer": "Regular maintenance should be performed annually or as recommended by the manufacturer to ensure optimal performance."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Maintenance",
+        "question": "Are software updates available for the MX700?",
+        "answer": "Yes, software updates can be obtained through Philips support. Ensure updates are performed by qualified personnel."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Alert",
+        "question": "What does a 'Check NBP Cuff' alert mean?",
+        "answer": "This alert indicates an issue with the non-invasive blood pressure cuff. Verify the cuff is properly positioned and connected."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Alert",
+        "question": "How do I acknowledge an alert?",
+        "answer": "Press the 'Silence' or 'Acknowledge' button on the monitor to temporarily mute the alert. Address the underlying issue promptly."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Troubleshooting",
+        "question": "Why is the touch screen unresponsive?",
+        "answer": "Ensure the screen is clean and free from obstructions. If unresponsive, perform a system restart. Contact support if the issue continues."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Troubleshooting",
+        "question": "What should I do if the monitor fails to boot?",
+        "answer": "Check the power connections and ensure the power source is functioning. If the problem persists, contact technical support."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Filter",
+        "question": "Does the MX700 have any filters that require maintenance?",
+        "answer": "The MX700 may have internal filters depending on the configuration. Refer to the service manual for maintenance guidelines."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Filter",
+        "question": "How often should filters be checked or replaced?",
+        "answer": "Filter maintenance schedules vary. Consult the service manual for specific intervals and procedures."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Battery",
+        "question": "Does the MX700 operate on battery power?",
+        "answer": "The MX700 is primarily AC-powered. Some configurations may include a battery for short-term operation during power interruptions."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Battery",
+        "question": "How do I check the battery status?",
+        "answer": "Battery status can be viewed in the system settings under the 'Power' or 'Battery' section."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Tube",
+        "question": "What types of tubing are compatible with the MX700?",
+        "answer": "The MX700 supports various tubing for parameters like NBP and CO2. Use only Philips-approved accessories."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Tube",
+        "question": "How should I clean the tubing used with the monitor?",
+        "answer": "Follow the manufacturer's instructions for cleaning or replacing tubing to maintain hygiene and functionality."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Connect",
+        "question": "Can the MX700 connect to hospital networks?",
+        "answer": "Yes, the MX700 can be integrated into hospital networks for data sharing and centralized monitoring."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Connect",
+        "question": "What interfaces are available on the MX700?",
+        "answer": "The MX700 offers various interfaces, including USB, Ethernet, and serial ports, for connectivity with external devices."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Start",
+        "question": "How do I power on the MX700 monitor?",
+        "answer": "Press the power button located on the front panel. The monitor will initiate its startup sequence."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Start",
+        "question": "What should I check during startup?",
+        "answer": "Ensure all connected modules and sensors are recognized, and verify that the monitor passes its self-tests."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Mask",
+        "question": "Is the MX700 compatible with oxygen masks?",
+        "answer": "The MX700 monitors parameters and does not directly interface with oxygen masks. Ensure sensors are properly placed when using masks."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Mask",
+        "question": "Can I monitor respiratory parameters while the patient uses a mask?",
+        "answer": "Yes, the MX700 can monitor parameters like SpO2 and CO2 while the patient is using a mask, provided sensors are correctly positioned."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Display",
+        "question": "Can I adjust the brightness of the display?",
+        "answer": "Yes, brightness settings can be adjusted through the monitor's display settings menu."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Display",
+        "question": "What should I do if the display is blank?",
+        "answer": "Check the power connection and ensure the monitor is turned on. If the issue persists, contact technical support."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Power",
+        "question": "What power sources are compatible with the MX700?",
+        "answer": "The MX700 operates on standard AC power. Refer to the technical specifications for voltage requirements."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Power",
+        "question": "Does the monitor have power-saving features?",
+        "answer": "Yes, the MX700 includes power management settings that can be configured to optimize energy usage."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Replace",
+        "question": "How do I replace a module on the MX700?",
+        "answer": "Power down the monitor, disconnect the module, and insert the new module securely. Power on the monitor to recognize the new module."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Replace",
+        "question": "When should I replace the SpO2 sensor?",
+        "answer": "Replace the SpO2 sensor if it shows signs of wear, damage, or if readings become inconsistent."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Light",
+        "question": "What do the indicator lights signify?",
+        "answer": "Indicator lights provide status information. Refer to the user manual for detailed descriptions of each light's meaning."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Light",
+        "question": "Can I adjust the brightness of indicator lights?",
+        "answer": "Brightness settings for indicator lights can be adjusted through the monitor's settings menu."
+      },
+      {
+        "product": "Philips IntelliVue MX700 Patient Monitor",
+        "category": "Alarm",
+        "question": "How do I set alarm limits?",
+        "answer": "Access the 'Alarms' menu to configure parameter-specific alarm limits according to patient needs."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Clean",
+        "question": "How should I clean the exterior surfaces of the MX40 monitor?",
+        "answer": "Use a soft, lint-free cloth dampened with a mild detergent solution. Avoid abrasive cleaners and ensure no liquid enters the device openings."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Clean",
+        "question": "Can I use disinfectants on the MX40 monitor?",
+        "answer": "Yes, approved disinfectants can be used. Refer to the manufacturer's guidelines for a list of compatible disinfectants."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Error",
+        "question": "What does a 'Leadset Malfunction' error indicate?",
+        "answer": "This error suggests an issue with the ECG leadset. Check all lead connections and replace the leadset if necessary."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Error",
+        "question": "How do I resolve a 'SpO2 Sensor Off' error?",
+        "answer": "Ensure the SpO2 sensor is correctly attached to the patient and connected to the monitor. Replace the sensor if the issue persists."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Setup",
+        "question": "How do I configure the monitor for a new patient?",
+        "answer": "Access the 'Patient Demographics' menu to enter new patient information and select the appropriate monitoring profile."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Setup",
+        "question": "Can I customize the display layout?",
+        "answer": "Yes, the MX40 allows customization of waveforms and parameter displays through the 'Screen Setup' menu."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Maintenance",
+        "question": "How often should the monitor be serviced?",
+        "answer": "Regular maintenance should be performed annually or as recommended by the manufacturer to ensure optimal performance."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Maintenance",
+        "question": "Are software updates available for the MX40?",
+        "answer": "Yes, software updates can be obtained through Philips support. Ensure updates are performed by qualified personnel."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Alert",
+        "question": "What does a 'Check Leadset' alert mean?",
+        "answer": "This alert indicates an issue with the ECG leadset. Verify the leadset is properly connected and functioning."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Alert",
+        "question": "How do I acknowledge an alert?",
+        "answer": "Press the 'Silence' or 'Acknowledge' button on the monitor to temporarily mute the alert. Address the underlying issue promptly."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Troubleshooting",
+        "question": "Why is the touch screen unresponsive?",
+        "answer": "Ensure the screen is clean and free from obstructions. If unresponsive, perform a system restart. Contact support if the issue continues."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Troubleshooting",
+        "question": "What should I do if the monitor fails to boot?",
+        "answer": "Check the power connections and ensure the power source is functioning. If the problem persists, contact technical support."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Filter",
+        "question": "Does the MX40 have any filters that require maintenance?",
+        "answer": "The MX40 may have internal filters depending on the configuration. Refer to the service manual for maintenance guidelines."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Filter",
+        "question": "How often should filters be checked or replaced?",
+        "answer": "Filter maintenance schedules vary. Consult the service manual for specific intervals and procedures."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Battery",
+        "question": "Does the MX40 operate on battery power?",
+        "answer": "Yes, the MX40 operates on either AA batteries or a rechargeable lithium-ion battery, providing flexibility in power options."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Battery",
+        "question": "How do I check the battery status?",
+        "answer": "Battery status can be viewed in the system settings under the 'Power' or 'Battery' section."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Tube",
+        "question": "What types of tubing are compatible with the MX40?",
+        "answer": "The MX40 supports various tubing for parameters like NBP and CO2. Use only Philips-approved accessories."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Tube",
+        "question": "How should I clean the tubing used with the monitor?",
+        "answer": "Follow the manufacturer's instructions for cleaning or replacing tubing to maintain hygiene and functionality."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Connect",
+        "question": "Can the MX40 connect to hospital networks?",
+        "answer": "Yes, the MX40 can be integrated into hospital networks for data sharing and centralized monitoring."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Connect",
+        "question": "What interfaces are available on the MX40?",
+        "answer": "The MX40 offers various interfaces, including USB, Ethernet, and serial ports, for connectivity with external devices."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Start",
+        "question": "How do I power on the MX40 monitor?",
+        "answer": "Press the power button located on the front panel. The monitor will initiate its startup sequence."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Start",
+        "question": "What should I check during startup?",
+        "answer": "Ensure all connected modules and sensors are recognized, and verify that the monitor passes its self-tests."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Mask",
+        "question": "Is the MX40 compatible with oxygen masks?",
+        "answer": "The MX40 monitors parameters and does not directly interface with oxygen masks. Ensure sensors are properly placed when using masks."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Mask",
+        "question": "Can I monitor respiratory parameters while the patient uses a mask?",
+        "answer": "Yes, the MX40 can monitor parameters like SpO2 and CO2 while the patient is using a mask, provided sensors are correctly positioned."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Display",
+        "question": "Can I adjust the brightness of the display?",
+        "answer": "Yes, brightness settings can be adjusted through the monitor's display settings menu."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Display",
+        "question": "What should I do if the display is blank?",
+        "answer": "Check the power connection and ensure the monitor is turned on. If the issue persists, contact technical support."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Power",
+        "question": "What power sources are compatible with the MX40?",
+        "answer": "The MX40 operates on standard AC power. Refer to the technical specifications for voltage requirements."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Power",
+        "question": "Does the monitor have power-saving features?",
+        "answer": "Yes, the MX40 includes power management settings that can be configured to optimize energy usage."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Replace",
+        "question": "How do I replace a module on the MX40?",
+        "answer": "Power down the monitor, disconnect the module, and insert the new module securely. Power on the monitor to recognize the new module."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Replace",
+        "question": "When should I replace the SpO2 sensor?",
+        "answer": "Replace the SpO2 sensor if it shows signs of wear, damage, or if readings become inconsistent."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Light",
+        "question": "What do the indicator lights signify?",
+        "answer": "Indicator lights provide status information. Refer to the user manual for detailed descriptions of each light's meaning."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Light",
+        "question": "Can I adjust the brightness of indicator lights?",
+        "answer": "Brightness settings for indicator lights can be adjusted through the monitor's settings menu."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Alarm",
+        "question": "How do I set alarm limits?",
+        "answer": "Access the 'Alarms' menu to configure parameter-specific alarm limits according to patient needs."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Humidity",
+        "question": "Does the MX40 monitor track humidity levels?",
+        "answer": "No, the MX40 does not monitor environmental humidity. It is recommended to operate the device within the manufacturer’s specified humidity range."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Humidity",
+        "question": "What is the ideal humidity range for using the MX40?",
+        "answer": "The recommended operating humidity is 15% to 95% non-condensing. Ensure the device is used in a controlled environment."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Sleep",
+        "question": "Can the MX40 be used to monitor patients during sleep?",
+        "answer": "Yes, the MX40 can continuously monitor vital signs like ECG and SpO2 while the patient is asleep, offering mobility and comfort."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Sleep",
+        "question": "Is there a sleep mode in the MX40?",
+        "answer": "The MX40 does not have a dedicated sleep mode, but its continuous monitoring function works efficiently during patient rest periods."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Ramp",
+        "question": "Is a ramp feature available in the MX40?",
+        "answer": "No, the MX40 does not include a ramp feature as it is not a CPAP or ventilatory support device."
+      },
+      {
+        "product": "Philips IntelliVue MX40 Wearable Monitor",
+        "category": "Ramp",
+        "question": "How can I gradually adjust patient monitoring on the MX40?",
+        "answer": "While there is no ramp, you can configure alarm limits and display preferences to suit gradual condition changes or sensitivity."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Clean",
+        "question": "How should I clean the exterior surfaces of the TC70?",
+        "answer": "Use a soft, lint-free cloth dampened with a mild detergent solution. Avoid abrasive cleaners and ensure no liquid enters the device openings."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Clean",
+        "question": "Can I use disinfectants on the TC70?",
+        "answer": "Yes, approved disinfectants can be used. Refer to the manufacturer's guidelines for a list of compatible disinfectants."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Error",
+        "question": "What does a 'Lead Off' error indicate?",
+        "answer": "This error suggests that one or more ECG leads are disconnected or not properly attached to the patient. Check all lead connections."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Error",
+        "question": "How do I resolve a 'Printer Error' message?",
+        "answer": "Ensure the paper tray is properly loaded and the printer door is securely closed. If the issue persists, consult the user manual or contact technical support."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Setup",
+        "question": "How do I configure the TC70 for a new patient?",
+        "answer": "Access the 'Patient Demographics' menu to enter new patient information and select the appropriate monitoring profile."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Setup",
+        "question": "Can I customize the display layout?",
+        "answer": "Yes, the TC70 allows customization of waveforms and parameter displays through the 'Screen Setup' menu."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Maintenance",
+        "question": "How often should the TC70 be serviced?",
+        "answer": "Regular maintenance should be performed annually or as recommended by the manufacturer to ensure optimal performance."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Maintenance",
+        "question": "Are software updates available for the TC70?",
+        "answer": "Yes, software updates can be obtained through Philips support. Ensure updates are performed by qualified personnel."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Alert",
+        "question": "What does a 'Check Paper' alert mean?",
+        "answer": "This alert indicates that the ECG paper is low or not properly loaded. Refill or adjust the paper as necessary."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Alert",
+        "question": "How do I acknowledge an alert?",
+        "answer": "Press the 'Silence' or 'Acknowledge' button on the monitor to temporarily mute the alert. Address the underlying issue promptly."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Troubleshooting",
+        "question": "Why is the touch screen unresponsive?",
+        "answer": "Ensure the screen is clean and free from obstructions. If unresponsive, perform a system restart. Contact support if the issue continues."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Troubleshooting",
+        "question": "What should I do if the monitor fails to boot?",
+        "answer": "Check the power connections and ensure the power source is functioning. If the problem persists, contact technical support."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Filter",
+        "question": "Does the TC70 have any filters that require maintenance?",
+        "answer": "The TC70 may have internal filters depending on the configuration. Refer to the service manual for maintenance guidelines."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Filter",
+        "question": "How often should filters be checked or replaced?",
+        "answer": "Filter maintenance schedules vary. Consult the service manual for specific intervals and procedures."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Battery",
+        "question": "Does the TC70 operate on battery power?",
+        "answer": "Yes, the TC70 operates on a rechargeable lithium-ion battery, providing flexibility in power options."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Battery",
+        "question": "How do I check the battery status?",
+        "answer": "Battery status can be viewed in the system settings under the 'Power' or 'Battery' section."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Tube",
+        "question": "What types of tubing are compatible with the TC70?",
+        "answer": "The TC70 supports various tubing for parameters like NBP and CO2. Use only Philips-approved accessories."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Tube",
+        "question": "How should I clean the tubing used with the monitor?",
+        "answer": "Follow the manufacturer's instructions for cleaning or replacing tubing to maintain hygiene and functionality."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Connect",
+        "question": "Can the TC70 connect to hospital networks?",
+        "answer": "Yes, the TC70 can be integrated into hospital networks for data sharing and centralized monitoring."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Connect",
+        "question": "What interfaces are available on the TC70?",
+        "answer": "The TC70 offers various interfaces, including USB, Ethernet, and serial ports, for connectivity with external devices."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Start",
+        "question": "How do I power on the TC70 monitor?",
+        "answer": "Press the power button located on the front panel. The monitor will initiate its startup sequence."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Start",
+        "question": "What should I check during startup?",
+        "answer": "Ensure all connected modules and sensors are recognized, and verify that the monitor passes its self-tests."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Mask",
+        "question": "Is the TC70 compatible with oxygen masks?",
+        "answer": "The TC70 monitors parameters and does not directly interface with oxygen masks. Ensure sensors are properly placed when using masks."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Mask",
+        "question": "Can I monitor respiratory parameters while the patient uses a mask?",
+        "answer": "Yes, the TC70 can monitor parameters like SpO2 and CO2 while the patient is using a mask, provided sensors are correctly positioned."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Display",
+        "question": "Can I adjust the brightness of the display?",
+        "answer": "Yes, brightness settings can be adjusted through the monitor's display settings menu."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Display",
+        "question": "What should I do if the display is blank?",
+        "answer": "Check the power connection and ensure the monitor is turned on. If the issue persists, contact technical support."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Power",
+        "question": "What power sources are compatible with the TC70?",
+        "answer": "The TC70 operates on standard AC power. Refer to the technical specifications for voltage requirements."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Power",
+        "question": "Does the monitor have power-saving features?",
+        "answer": "Yes, the TC70 includes power management settings that can be configured to optimize energy usage."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Replace",
+        "question": "How do I replace a module on the TC70?",
+        "answer": "Power down the monitor, disconnect the module, and insert the new module securely. Power on the monitor to recognize the new module."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Replace",
+        "question": "When should I replace the SpO2 sensor?",
+        "answer": "Replace the SpO2 sensor if it shows signs of wear, damage, or if readings become inconsistent."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Light",
+        "question": "What do the indicator lights signify?",
+        "answer": "Indicator lights provide status information. Refer to the user manual for detailed descriptions of each light's meaning."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Light",
+        "question": "Can I adjust the brightness of indicator lights?",
+        "answer": "Brightness settings for indicator lights can be adjusted through the monitor's settings menu."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Alarm",
+        "question": "How do I set alarm limits?",
+        "answer": "Access the 'Alarms' menu to configure parameter-specific alarm limits according to patient needs."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Alarm",
+        "question": "How can I silence an alarm?",
+        "answer": "Press the 'Silence' button to temporarily mute the alarm. Ensure that the underlying issue is addressed promptly."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Humidity",
+        "question": "What is the recommended humidity range for operating the TC70?",
+        "answer": "The TC70 should be used in environments with a relative humidity between 15% and 95%, non-condensing, to ensure optimal performance."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Humidity",
+        "question": "Can high humidity affect the ECG readings?",
+        "answer": "Yes, excessive humidity or condensation can affect electrode adhesion and signal quality. Always operate within specified environmental conditions."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Sleep",
+        "question": "Is the TC70 suitable for monitoring patients during sleep?",
+        "answer": "The TC70 can capture ECG recordings during sleep, but it is not a continuous monitoring device like bedside monitors designed for sleep studies."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Sleep",
+        "question": "Can I use the TC70 for sleep apnea diagnosis?",
+        "answer": "No, the TC70 is designed for resting ECGs and is not intended for diagnosing sleep disorders like sleep apnea."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Ramp",
+        "question": "Does the TC70 have a ramp feature like in ventilators?",
+        "answer": "No, the TC70 is a diagnostic ECG machine and does not include a ramp feature, which is typically used in respiratory devices."
+      },
+      {
+        "product": "Philips PageWriter TC70 ECG Machine",
+        "category": "Ramp",
+        "question": "How can I ensure a smooth data acquisition experience with the TC70?",
+        "answer": "Ensure the patient is calm, the electrodes are well-placed, and the device settings are appropriately configured before starting the ECG recording."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Clean",
+        "question": "How should I clean the exterior surfaces of the HS1 AED?",
+        "answer": "Use a soft, lint-free cloth dampened with a mild detergent solution. Avoid abrasive cleaners and ensure no liquid enters the device openings."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Clean",
+        "question": "Can I use disinfectants on the HS1 AED?",
+        "answer": "Yes, approved disinfectants can be used. Refer to the manufacturer's guidelines for a list of compatible disinfectants."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Error",
+        "question": "What does it mean if the HS1 emits a series of chirps and the 'i' button is flashing?",
+        "answer": "This indicates a self-test error. Press the 'i' button for voice prompts identifying the problem. If the issue persists, contact technical support."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Error",
+        "question": "What should I do if the HS1's Ready light is off?",
+        "answer": "Check the battery and pad cartridge. Replace if necessary. If the issue continues, perform a battery insertion test or contact support."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Setup",
+        "question": "How do I set up the HS1 AED for the first time?",
+        "answer": "Remove the green Setup tab to initiate a self-test. Follow the voice prompts to complete the setup process."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Setup",
+        "question": "Can I configure the HS1 for hands-only CPR?",
+        "answer": "Yes, using the HeartStart Configure software, you can update the HS1 to support hands-only CPR protocols."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Maintenance",
+        "question": "How often should I check the HS1 AED?",
+        "answer": "Perform monthly checks to ensure the Ready light is blinking green, indicating the device is ready for use."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Maintenance",
+        "question": "When should I replace the electrode pads?",
+        "answer": "Replace the pads before their expiration date or after each use."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Alert",
+        "question": "What does a triple chirp alert signify on the HS1?",
+        "answer": "A triple chirp indicates a potentially serious issue. Contact Philips technical support immediately."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Alert",
+        "question": "How do I acknowledge an alert on the HS1?",
+        "answer": "Press the 'i' button to receive voice prompts detailing the issue and recommended actions."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Troubleshooting",
+        "question": "What should I do if the HS1 fails a self-test?",
+        "answer": "Remove and reinsert the battery to perform a battery insertion test. If the problem persists, contact technical support."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Troubleshooting",
+        "question": "Why is the HS1 not powering on?",
+        "answer": "Ensure the battery is properly installed and not expired. Replace the battery if necessary."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Filter",
+        "question": "Does the HS1 AED have any filters that require maintenance?",
+        "answer": "No, the HS1 does not contain any user-serviceable filters."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Filter",
+        "question": "Are there any air filters in the HS1 AED?",
+        "answer": "No, the HS1 AED does not utilize air filters in its design."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Battery",
+        "question": "What type of battery does the HS1 use?",
+        "answer": "The HS1 uses a 9V DC, 4.2 Ah lithium manganese dioxide battery (M5070A)."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Battery",
+        "question": "How long does the HS1 battery last?",
+        "answer": "The battery has a typical standby life of four years when installed by the 'install-by' date."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Tube",
+        "question": "Does the HS1 AED use any tubing?",
+        "answer": "No, the HS1 AED does not utilize any tubing in its operation."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Tube",
+        "question": "Are there any hoses or tubes to replace in the HS1?",
+        "answer": "No, the HS1 AED does not contain hoses or tubes."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Connect",
+        "question": "Can the HS1 AED connect to a computer for data retrieval?",
+        "answer": "Yes, using an optional infrared data port and compatible software, event data can be downloaded."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Connect",
+        "question": "Does the HS1 have Bluetooth connectivity?",
+        "answer": "No, the HS1 AED does not support Bluetooth connectivity."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Start",
+        "question": "How do I start the HS1 AED in an emergency?",
+        "answer": "Pull the green handle to turn on the device and follow the voice prompts."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Start",
+        "question": "What initiates the HS1 AED's operation?",
+        "answer": "Removing the green pull-tab activates the device and starts the voice instructions."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Mask",
+        "question": "Does the HS1 AED come with a CPR mask?",
+        "answer": "No, a CPR mask is not included but can be purchased separately."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Mask",
+        "question": "Is a face shield provided with the HS1 AED?",
+        "answer": "Some packages may include a face shield; check the contents of your specific AED kit."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Display",
+        "question": "Does the HS1 AED have a display screen?",
+        "answer": "No, the HS1 AED relies on voice prompts and indicator lights for guidance."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Display",
+        "question": "How do I know the HS1 AED is ready for use?",
+        "answer": "A blinking green Ready light indicates the device is ready for use."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Power",
+        "question": "What powers the HS1 AED?",
+        "answer": "The device is powered by a disposable lithium manganese dioxide battery."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Power",
+        "question": "Can the HS1 AED be plugged into an AC outlet?",
+        "answer": "No, the HS1 AED is designed to operate solely on battery power."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Replace",
+        "question": "When should I replace the HS1's battery?",
+        "answer": "Replace the battery when the device indicates low battery or before the 'install-by' date."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Replace",
+        "question": "How do I replace the electrode pads?",
+        "answer": "Open the pad cartridge compartment, remove the old pads, and insert a new cartridge until it clicks into place."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Light",
+        "question": "What does the blinking green light signify?",
+        "answer": "A blinking green light indicates the HS1 AED has passed its self-tests and is ready for use."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Light",
+        "question": "What does it mean if the green light is off?",
+        "answer": "If the green light is off, the device may not be ready for use. Check the battery and pad cartridge."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Alarm",
+        "question": "Does the HS1 AED have an audible alarm?",
+        "answer": "Yes, the device emits chirping sounds to indicate issues such as low battery or expired pads."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Alarm",
+        "question": "How do I silence the HS1 AED's alarm?",
+        "answer": "Press the 'i' button to receive information about the issue. Addressing the problem will stop the alarm."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Humidity",
+        "question": "What is the operating humidity range for the HS1 AED?",
+        "answer": "The device operates effectively in environments with 0% to 95% relative humidity."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Humidity",
+        "question": "What is the operating humidity range for the HS1 AED?",
+        "answer": "The device operates effectively in environments with 0% to 95% relative humidity, non-condensing."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Humidity",
+        "question": "Can moisture or condensation affect the HS1's functionality?",
+        "answer": "Yes, excessive condensation may interfere with electrode pad adhesion or internal components. Always store and operate in dry conditions."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Sleep",
+        "question": "Can the HS1 AED be used on a sleeping patient?",
+        "answer": "Yes, if a patient becomes unresponsive and is not breathing normally, regardless of whether they are sleeping, the HS1 should be used immediately."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Sleep",
+        "question": "Does the HS1 monitor heart rhythm continuously during sleep?",
+        "answer": "No, the HS1 is not a continuous monitoring device. It only analyzes the rhythm when activated during a cardiac emergency."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Ramp",
+        "question": "Does the HS1 AED have a ramp feature like CPAP machines?",
+        "answer": "No, the HS1 is a defibrillator and does not provide respiratory support or ramp features."
+      },
+      {
+        "product": "Philips HeartStart HS1 AED",
+        "category": "Ramp",
+        "question": "Is there any gradual escalation in energy delivery in the HS1?",
+        "answer": "No, the HS1 delivers a preset shock level based on the assessed heart rhythm. It does not ramp energy levels like advanced manual defibrillators."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Clean",
+        "question": "How should I clean the exterior surfaces of the FRx AED?",
+        "answer": "Use a soft, damp cloth with mild soap and water. Avoid abrasive cleaners and ensure no liquid enters the device openings."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Clean",
+        "question": "Can I use disinfectants on the FRx AED?",
+        "answer": "Yes, approved disinfectants can be used. Refer to the manufacturer's guidelines for a list of compatible disinfectants."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Error",
+        "question": "What does it mean if the FRx emits a series of chirps and the 'i' button is flashing?",
+        "answer": "This indicates a self-test error. Press the 'i' button for voice prompts identifying the problem. If the issue persists, contact technical support."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Error",
+        "question": "What should I do if the FRx's Ready light is off?",
+        "answer": "Check the battery and pad cartridge. Replace if necessary. If the issue continues, perform a battery insertion test or contact support."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Setup",
+        "question": "How do I set up the FRx AED for the first time?",
+        "answer": "Remove the device from its packaging, install the battery and SMART Pads II, and follow the voice prompts to complete the setup process."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Setup",
+        "question": "Can I configure the FRx for hands-only CPR?",
+        "answer": "Yes, using the HeartStart Configure software, you can update the FRx to support hands-only CPR protocols."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Maintenance",
+        "question": "How often should I check the FRx AED?",
+        "answer": "Perform monthly checks to ensure the Ready light is blinking green, indicating the device is ready for use."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Maintenance",
+        "question": "When should I replace the electrode pads?",
+        "answer": "Replace the pads before their expiration date or after each use."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Alert",
+        "question": "What does a triple chirp alert signify on the FRx?",
+        "answer": "A triple chirp indicates a potentially serious issue. Contact Philips technical support immediately."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Alert",
+        "question": "How do I acknowledge an alert on the FRx?",
+        "answer": "Press the 'i' button to receive voice prompts detailing the issue and recommended actions."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Troubleshooting",
+        "question": "What should I do if the FRx fails a self-test?",
+        "answer": "Remove and reinsert the battery to perform a battery insertion test. If the problem persists, contact technical support."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Troubleshooting",
+        "question": "Why is the FRx not powering on?",
+        "answer": "Ensure the battery is properly installed and not expired. Replace the battery if necessary."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Filter",
+        "question": "Does the FRx AED have any filters that require maintenance?",
+        "answer": "No, the FRx does not contain any user-serviceable filters."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Filter",
+        "question": "Are there any air filters in the FRx AED?",
+        "answer": "No, the FRx AED does not utilize air filters in its design."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Battery",
+        "question": "What type of battery does the FRx use?",
+        "answer": "The FRx uses a 9V DC, 4.2 Ah lithium manganese dioxide battery (M5070A)."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Battery",
+        "question": "How long does the FRx battery last?",
+        "answer": "The battery has a typical standby life of four years when installed by the 'install-by' date."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Tube",
+        "question": "Does the FRx AED use any tubing?",
+        "answer": "No, the FRx AED does not utilize any tubing in its operation."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Tube",
+        "question": "Are there any hoses or tubes to replace in the FRx?",
+        "answer": "No, the FRx AED does not contain hoses or tubes."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Connect",
+        "question": "Can the FRx AED connect to a computer for data retrieval?",
+        "answer": "Yes, using an optional infrared data port and compatible software, event data can be downloaded."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Connect",
+        "question": "Does the FRx have Bluetooth connectivity?",
+        "answer": "No, the FRx AED does not support Bluetooth connectivity."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Start",
+        "question": "How do I start the FRx AED in an emergency?",
+        "answer": "Press the green 'On' button to turn on the device and follow the voice prompts."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Start",
+        "question": "What initiates the FRx AED's operation?",
+        "answer": "Pressing the green 'On' button activates the device and starts the voice instructions."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Mask",
+        "question": "Does the FRx AED come with a CPR mask?",
+        "answer": "No, a CPR mask is not included but can be purchased separately."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Mask",
+        "question": "Is a face shield provided with the FRx AED?",
+        "answer": "Some packages may include a face shield; check the contents of your specific AED kit."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Display",
+        "question": "Does the FRx AED have a display screen?",
+        "answer": "No, the FRx AED relies on voice prompts and indicator lights for guidance."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Display",
+        "question": "How do I know the FRx AED is ready for use?",
+        "answer": "A blinking green Ready light indicates the device is ready for use."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Power",
+        "question": "What powers the FRx AED?",
+        "answer": "The device is powered by a disposable lithium manganese dioxide battery."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Power",
+        "question": "Can the FRx AED be plugged into an AC outlet?",
+        "answer": "No, the FRx AED is designed to operate solely on battery power."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Replace",
+        "question": "When should I replace the FRx's battery?",
+        "answer": "Replace the battery when the device indicates low battery or before the 'install-by' date."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Replace",
+        "question": "How do I replace the electrode pads?",
+        "answer": "Open the pad cartridge compartment, remove the old pads, and insert a new cartridge until it clicks into place."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Light",
+        "question": "What does the blinking green light signify?",
+        "answer": "A blinking green light indicates the FRx AED has passed its self-tests and is ready for use."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Light",
+        "question": "What does it mean if the green light is off?",
+        "answer": "If the green light is off, the device may not be ready for use. Check the battery and pad cartridge."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Alarm",
+        "question": "Does the FRx AED have an audible alarm?",
+        "answer": "Yes, the device emits chirping sounds to indicate issues such as low battery or expired pads."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Alarm",
+        "question": "How do I silence the FRx AED's alarm?",
+        "answer": "Press the 'i' button to receive information about the issue. Addressing the problem will stop the alarm."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Humidity",
+        "question": "Can moisture or condensation affect the FRx's performance?",
+        "answer": "Yes, operating the device outside the specified humidity range or in a wet environment may affect electrode adhesion and internal circuitry."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Sleep",
+        "question": "Can the FRx AED be used if someone goes unresponsive during sleep?",
+        "answer": "Yes, the FRx can be used on a person found unresponsive and not breathing normally, regardless of their activity at the time."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Sleep",
+        "question": "Does the FRx AED monitor a sleeping patient's heart rhythm continuously?",
+        "answer": "No, the FRx is not a monitoring device; it is only used during cardiac emergencies when a shockable rhythm is suspected."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Ramp",
+        "question": "Does the FRx AED offer a ramp-up feature like respiratory machines?",
+        "answer": "No, the FRx AED does not have a ramp feature. It is designed to analyze the heart rhythm and deliver a shock if needed, at a preset energy level."
+      },
+      {
+        "product": "Philips HeartStart FRx AED",
+        "category": "Ramp",
+        "question": "Is there any gradual energy escalation in the FRx AED?",
+        "answer": "No, the FRx AED delivers a fixed energy shock based on the built-in protocol; it does not gradually increase energy like some advanced manual defibrillators."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Clean",
+        "question": "How should I clean the exterior surfaces of the VS4 monitor?",
+        "answer": "Use only approved cleaning agents as listed in the user manual. Wipe the exterior surfaces with a soft cloth dampened with the cleaning solution. Avoid abrasive cleaners and ensure no liquid enters the device openings."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Clean",
+        "question": "Can I disinfect the VS4 monitor?",
+        "answer": "Yes, disinfect the monitor using disinfectants approved by Philips. Refer to the manufacturer's guidelines for a list of compatible disinfectants."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Error",
+        "question": "What does a 'Speaker Malfunc' error indicate?",
+        "answer": "This error suggests a malfunction in the speaker system. Refer to the service manual for troubleshooting steps or contact technical support."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Error",
+        "question": "How do I resolve a 'Replace SpO2 Cable' error?",
+        "answer": "This error indicates that the SpO2 cable needs replacement. Replace it with a compatible Philips-approved cable to ensure accurate readings."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Setup",
+        "question": "How do I set up the VS4 monitor for a new patient?",
+        "answer": "Use the touchscreen interface to enter patient information and configure monitoring parameters as needed."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Setup",
+        "question": "Can I configure the VS4 monitor for spot check mode?",
+        "answer": "Yes, the VS4 monitor allows configuration for both NBP interval mode and spot check mode to suit patient monitoring needs."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Maintenance",
+        "question": "How often should the VS4 monitor be serviced?",
+        "answer": "Regular maintenance should be performed as recommended by Philips to ensure optimal performance. Refer to the service manual for detailed schedules."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Maintenance",
+        "question": "Are software updates available for the VS4 monitor?",
+        "answer": "Yes, software updates can be obtained through Philips support. Ensure updates are performed by qualified personnel."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Alert",
+        "question": "What does a 'Check NBP Cuff' alert mean?",
+        "answer": "This alert indicates an issue with the non-invasive blood pressure cuff. Verify the cuff is properly positioned and connected."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Alert",
+        "question": "How do I acknowledge an alert on the VS4 monitor?",
+        "answer": "Press the 'Silence' or 'Acknowledge' button on the monitor to temporarily mute the alert. Address the underlying issue promptly."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Troubleshooting",
+        "question": "Why is the VS4 monitor not powering on?",
+        "answer": "Ensure the battery is properly installed and charged. If the issue persists, refer to the troubleshooting section in the service manual or contact technical support."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Troubleshooting",
+        "question": "What should I do if the display is unresponsive?",
+        "answer": "Check for any obstructions or damage to the touchscreen. Restart the monitor. If the problem continues, consult the service manual or contact support."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Filter",
+        "question": "Does the VS4 monitor have any filters that require maintenance?",
+        "answer": "The VS4 monitor does not contain user-serviceable filters. Regular maintenance should be performed as per the manufacturer's guidelines."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Filter",
+        "question": "Are there any air filters in the VS4 monitor?",
+        "answer": "No, the VS4 monitor does not utilize air filters in its design."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Battery",
+        "question": "What type of battery does the VS4 monitor use?",
+        "answer": "The VS4 monitor uses a rechargeable Lithium Ion battery with a nominal voltage of 11.1V."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Battery",
+        "question": "How do I check the battery status on the VS4 monitor?",
+        "answer": "Battery status can be viewed on the monitor's display. Refer to the user manual for detailed instructions."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Tube",
+        "question": "What types of tubing are compatible with the VS4 monitor?",
+        "answer": "The VS4 monitor supports various tubing for parameters like NBP and SpO2. Use only Philips-approved accessories."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Tube",
+        "question": "How should I clean the tubing used with the monitor?",
+        "answer": "Follow the manufacturer's instructions for cleaning or replacing tubing to maintain hygiene and functionality."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Connect",
+        "question": "Can the VS4 monitor connect to hospital networks?",
+        "answer": "Yes, the VS4 monitor can be integrated into hospital networks for data sharing and centralized monitoring."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Connect",
+        "question": "What interfaces are available on the VS4 monitor?",
+        "answer": "The VS4 monitor offers various interfaces, including USB, Ethernet, and serial ports, for connectivity with external devices."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Start",
+        "question": "How do I power on the VS4 monitor?",
+        "answer": "Press the power button located on the front panel. The monitor will initiate its startup sequence."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Start",
+        "question": "What should I check during startup?",
+        "answer": "Ensure all connected modules and sensors are recognized, and verify that the monitor passes its self-tests."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Mask",
+        "question": "Is the VS4 monitor compatible with oxygen masks?",
+        "answer": "The VS4 monitor monitors parameters and does not directly interface with oxygen masks. Ensure sensors are properly placed when using masks."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Mask",
+        "question": "Can I monitor respiratory parameters while the patient uses a mask?",
+        "answer": "Yes, the VS4 monitor can monitor parameters like SpO2 while the patient is using a mask, provided sensors are correctly positioned."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Display",
+        "question": "Can I adjust the brightness of the display?",
+        "answer": "Yes, brightness settings can be adjusted through the monitor's display settings menu."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Display",
+        "question": "What should I do if the display is blank?",
+        "answer": "Check the power connection and ensure the monitor is turned on. If the issue persists, contact technical support."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Power",
+        "question": "What power sources are compatible with the VS4 monitor?",
+        "answer": "The VS4 monitor operates on standard AC power. Refer to the technical specifications for voltage requirements."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Power",
+        "question": "Does the monitor have power-saving features?",
+        "answer": "Yes, the VS4 monitor includes power management settings that can be configured to optimize energy usage."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Replace",
+        "question": "How do I replace a module on the VS4 monitor?",
+        "answer": "Power down the monitor, disconnect the module, and insert the new module securely. Power on the monitor to recognize the new module."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Replace",
+        "question": "When should I replace the SpO2 sensor?",
+        "answer": "Replace the SpO2 sensor if it shows signs of wear, damage, or if readings become inconsistent."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Light",
+        "question": "What do the indicator lights signify?",
+        "answer": "Indicator lights provide status information. Refer to the user manual for detailed descriptions of each light's meaning."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Light",
+        "question": "Can I adjust the brightness of indicator lights?",
+        "answer": "Brightness settings for indicator lights can be adjusted through the monitor's settings menu."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Alarm",
+        "question": "How do I set alarm limits?",
+        "answer": "Access the 'Alarms' menu to configure parameter-specific alarm limits according to patient needs."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Alarm",
+        "question": "Can I silence alarms temporarily?",
+        "answer": "Yes, pressing the 'Silence' button on the monitor will mute the audible alarm temporarily. Ensure the cause of the alarm is resolved promptly."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Humidity",
+        "question": "What is the acceptable operating humidity for the VS4 monitor?",
+        "answer": "The VS4 monitor is designed to operate in environments with 15% to 95% relative humidity, non-condensing."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Humidity",
+        "question": "Can condensation affect the monitor's function?",
+        "answer": "Yes, excessive moisture or condensation can damage internal electronics or affect readings. Always store and operate the device in dry conditions."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Sleep",
+        "question": "Can the VS4 monitor be used to monitor patients during sleep?",
+        "answer": "Yes, the VS4 can be used for overnight or resting vital signs monitoring such as SpO2, pulse rate, and NBP, depending on configuration."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Sleep",
+        "question": "Does the VS4 have a sleep mode?",
+        "answer": "No, the monitor does not have a dedicated sleep mode, but it can run continuously in low-noise environments."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Ramp",
+        "question": "Does the VS4 include a ramp-up feature?",
+        "answer": "No, the ramp feature is typically used in CPAP or ventilator devices. The VS4 does not include this as it is a vital signs monitor."
+      },
+      {
+        "product": "Philips SureSigns VS4 Monitor",
+        "category": "Ramp",
+        "question": "Can the VS4 gradually increase alarm thresholds?",
+        "answer": "No, the VS4 uses static alarm thresholds that can be adjusted manually in the alarm settings."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Clean",
+        "question": "How should I clean the cuff of the DL8760/15 monitor?",
+        "answer": "Wipe the cuff gently with a soft, damp cloth. Do not immerse it in water or use harsh chemicals. Ensure it is completely dry before next use."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Clean",
+        "question": "Can I use alcohol-based disinfectants on the monitor?",
+        "answer": "Yes, you can use alcohol-based disinfectants on the monitor's surface. Avoid getting moisture into any openings."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Error",
+        "question": "What does error code E1 indicate?",
+        "answer": "Error code E1 typically means the cuff is not properly attached or there is a leakage. Reposition the cuff and ensure it's securely fastened."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Error",
+        "question": "How do I resolve error code E3?",
+        "answer": "Error code E3 indicates excessive arm movement during measurement. Remain still and avoid talking during the process."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Setup",
+        "question": "How do I pair the monitor with the Philips HealthSuite app?",
+        "answer": "Turn on Bluetooth on your smartphone, open the HealthSuite app, and follow the on-screen instructions to pair the device."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Setup",
+        "question": "Can multiple users use the same monitor?",
+        "answer": "Yes, the DL8760/15 supports two user profiles. Select your user ID before taking a measurement to keep records separate."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Maintenance",
+        "question": "How often should I calibrate the monitor?",
+        "answer": "The DL8760/15 is factory-calibrated and doesn't require regular recalibration. If you suspect inaccuracies, contact Philips support."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Maintenance",
+        "question": "Is there any routine maintenance required?",
+        "answer": "Regularly inspect the cuff and tubing for wear or damage. Clean the device as recommended and store it in a dry place."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Alert",
+        "question": "What does the irregular heartbeat symbol mean?",
+        "answer": "The irregular heartbeat symbol indicates that an irregular heartbeat was detected during the measurement. Consult your physician if this occurs frequently."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Alert",
+        "question": "How does the monitor classify blood pressure readings?",
+        "answer": "The monitor uses WHO guidelines to classify readings, displaying a color-coded bar to indicate the blood pressure category."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Troubleshooting",
+        "question": "Why is the monitor not turning on?",
+        "answer": "Ensure the device is charged. Connect it to the charger and wait for a few minutes before attempting to turn it on again."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Troubleshooting",
+        "question": "What should I do if the readings seem inconsistent?",
+        "answer": "Ensure you're using the correct cuff size and positioning it properly. Sit quietly for 5 minutes before measuring and avoid talking or moving during the process."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Filter",
+        "question": "Does the monitor have any filters that need replacement?",
+        "answer": "No, the DL8760/15 does not contain any user-replaceable filters."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Filter",
+        "question": "Are there any internal filters to be aware of?",
+        "answer": "The device does not have internal filters requiring user maintenance."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Battery",
+        "question": "How long does the battery last on a full charge?",
+        "answer": "A full charge provides approximately 20 days of usage, depending on the frequency of measurements."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Battery",
+        "question": "How do I know when to recharge the battery?",
+        "answer": "The battery icon on the display will indicate when the charge is low. Recharge the device using the provided DC charger."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Tube",
+        "question": "Can I replace the cuff tubing if it's damaged?",
+        "answer": "Yes, replacement cuffs and tubing are available. Ensure you purchase compatible accessories from Philips or authorized dealers."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Tube",
+        "question": "How should I store the cuff and tubing?",
+        "answer": "Store the cuff loosely coiled without sharp bends to prevent damage. Keep it in a cool, dry place."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Connect",
+        "question": "Is the monitor compatible with all smartphones?",
+        "answer": "The DL8760/15 is compatible with iOS 9.3+ and Android 4.4+ devices. Ensure your phone meets these requirements for optimal functionality."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Connect",
+        "question": "How do I sync data to the HealthSuite app?",
+        "answer": "After pairing the device via Bluetooth, measurements will automatically sync to the app when it's open and Bluetooth is enabled."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Start",
+        "question": "How do I initiate a blood pressure measurement?",
+        "answer": "Press the 'Start/Stop' button after securing the cuff on your arm. Remain still and quiet during the measurement process."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Start",
+        "question": "Do I need to select a user profile before measuring?",
+        "answer": "Yes, select your user ID to ensure readings are stored under the correct profile."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Mask",
+        "question": "Can I use the monitor while wearing a face mask?",
+        "answer": "Yes, wearing a face mask does not interfere with blood pressure measurements."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Mask",
+        "question": "Does the monitor detect oxygen levels?",
+        "answer": "No, the DL8760/15 measures blood pressure and heart rate but does not measure oxygen saturation levels."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Display",
+        "question": "Is the display backlit for low-light conditions?",
+        "answer": "Yes, the monitor features a large backlit LCD display for easy reading in various lighting conditions."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Display",
+        "question": "Can I adjust the brightness of the display?",
+        "answer": "The display brightness is preset and not adjustable."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Power",
+        "question": "What type of charger does the monitor use?",
+        "answer": "The DL8760/15 uses a 6V 1A DC charger, included with the device."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Power",
+        "question": "Can I use the monitor while it's charging?",
+        "answer": "Yes, you can use the monitor while it's connected to the charger."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Replace",
+        "question": "When should I replace the cuff?",
+        "answer": "Replace the cuff if it shows signs of wear, damage, or if measurements become inconsistent."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Replace",
+        "question": "Can I replace the battery myself?",
+        "answer": "No, the battery is built-in and not user-replaceable. Contact Philips support for battery-related issues."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Light",
+        "question": "Does the monitor have any indicator lights?",
+        "answer": "Yes, the monitor has indicator symbols on the display, including battery status and Bluetooth connectivity."
+      },
+      {
+        "product": "Philips DL8760/15 Upper Arm Blood Pressure Monitor",
+        "category": "Light",
+        "question": "Is there a light to indicate charging status?",
+        "answer": "Yes, a charging icon appears on the display when the device is connected to the charger."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Maintenance",
+        "question": "How often should I calibrate the blood pressure monitor?",
+        "answer": "It is recommended to calibrate the monitor every 2 years or as advised by Philips support."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Alert",
+        "question": "What does a heart symbol with a flashing line mean?",
+        "answer": "This indicates an irregular heartbeat was detected during the measurement."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Troubleshooting",
+        "question": "Why is the monitor not inflating?",
+        "answer": "Ensure the cuff is correctly connected and the batteries are not low or depleted."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Filter",
+        "question": "Does this device contain any air filters to replace?",
+        "answer": "No, the monitor does not require any filter replacements."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Battery",
+        "question": "What type of batteries does the monitor use?",
+        "answer": "It uses 4 AA alkaline batteries."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Tube",
+        "question": "Can I replace the cuff tube separately?",
+        "answer": "Yes, replacement cuff tubes are available if damaged. Use only Philips-approved parts."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Connect",
+        "question": "Does this monitor support smartphone syncing?",
+        "answer": "Yes, certain models support Bluetooth connection with Philips HealthSuite app."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Start",
+        "question": "How do I begin a blood pressure reading?",
+        "answer": "Press the START/STOP button once. Remain still and quiet until the reading completes."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Mask",
+        "question": "Can this device be used while wearing a face mask?",
+        "answer": "Yes, wearing a mask does not affect blood pressure readings."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Display",
+        "question": "What does the 'average' symbol on the display mean?",
+        "answer": "It shows the average of the last three readings taken within 10 minutes."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Power",
+        "question": "Does the monitor have an auto-off function?",
+        "answer": "Yes, it automatically powers off after a short period of inactivity."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Replace",
+        "question": "When should I replace the cuff?",
+        "answer": "Replace the cuff if it shows signs of wear or fails to inflate properly."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Light",
+        "question": "Is there a backlight in the display?",
+        "answer": "Yes, some models include a backlight for better visibility in low light."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Alarm",
+        "question": "Does the monitor alert me for high blood pressure?",
+        "answer": "Yes, if the reading exceeds WHO standards, a visual indicator alerts you."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Humidity",
+        "question": "What humidity range is safe for operation?",
+        "answer": "Operate the device in environments with 15% to 93% relative humidity, non-condensing."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Sleep",
+        "question": "Can the monitor be used while the patient is asleep?",
+        "answer": "Yes, as long as the patient remains still, measurements can be taken during sleep."
+      },
+      {
+        "product": "Philips Upper Arm Blood Pressure Monitor",
+        "category": "Ramp",
+        "question": "Does the device have a ramp feature for inflation speed?",
+        "answer": "No, inflation speed is preset and cannot be adjusted by the user."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Clean",
+        "question": "How should I clean the infrared sensor?",
+        "answer": "Use a cotton swab moistened with a few drops of alcohol to gently wipe the surface of the infrared sensor. Immediately dry the surface with a clean cotton swab. Wait approximately 5-10 minutes before using the device again."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Clean",
+        "question": "Can I clean the body of the thermometer with water?",
+        "answer": "No, do not immerse the thermometer in water or any other liquid. Use a soft, dry cloth to clean the body of the device."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Error",
+        "question": "What does 'Er.3' indicate on the display?",
+        "answer": "'Er.3' indicates a system error. Remove the battery and replace it to reset the device."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Error",
+        "question": "What does a flashing '107.6ºF' mean?",
+        "answer": "This indicates the target temperature is too high for the thermometer to capture a reading. It suggests a person's temperature is above 107.6ºF (42.0ºC), and a physician should be contacted immediately."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Setup",
+        "question": "How do I switch between Celsius and Fahrenheit?",
+        "answer": "Press and hold the °C/°F selection button for 3 seconds to change the measurement unit."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Setup",
+        "question": "How do I pair the thermometer with my smartphone?",
+        "answer": "Download the Philips Avent uGrow app from the App Store or Google Play. Follow the in-app instructions to pair your thermometer via Bluetooth."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Maintenance",
+        "question": "Does the thermometer require regular calibration?",
+        "answer": "The device has been calibrated during manufacturing. If used according to instructions, periodic recalibration is not required."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Maintenance",
+        "question": "What is the expected service life of the thermometer?",
+        "answer": "The expected service life of the thermometer is 2 years. After this period, accuracy cannot be guaranteed."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Alert",
+        "question": "What does a red light ring around the power button indicate?",
+        "answer": "A red light ring indicates the measured temperature is between 38.0°C (100.4°F) and 42.9°C (109.2°F), suggesting a possible fever."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Alert",
+        "question": "What does a flashing battery symbol mean?",
+        "answer": "A flashing battery symbol indicates that the battery is low and should be replaced."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Troubleshooting",
+        "question": "Why does the display show '--'?",
+        "answer": "This indicates the target temperature is too low for the thermometer to capture a reading. Ensure the measurement is taken correctly and within the operating conditions."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Troubleshooting",
+        "question": "What should I do if the thermometer does not turn on?",
+        "answer": "Check if the batteries are correctly installed and have sufficient charge. Replace the batteries if necessary."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Filter",
+        "question": "Does the thermometer have any filters that need replacement?",
+        "answer": "No, the Philips Infrared Thermometer does not contain any user-replaceable filters."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Battery",
+        "question": "What type of batteries does the thermometer use?",
+        "answer": "The thermometer uses 2 x AAA non-rechargeable batteries."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Battery",
+        "question": "How do I replace the batteries?",
+        "answer": "Slide the battery cover downwards to open the compartment. Remove the old batteries and insert two new AAA batteries, ensuring correct polarity. Slide the battery cover back until it locks into place."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Tube",
+        "question": "Does the thermometer use any tubing?",
+        "answer": "No, the Philips Infrared Thermometer does not use any tubing."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Connect",
+        "question": "Can I connect the thermometer to my smartphone?",
+        "answer": "Yes, the thermometer can be connected to your smartphone via Bluetooth using the Philips Avent uGrow app."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Start",
+        "question": "How do I start a temperature measurement?",
+        "answer": "Press the power button to turn on the device. Place the probe tip in the ear canal and press the measurement button. The device will beep twice when the measurement is complete."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Mask",
+        "question": "Can I use the thermometer while wearing a face mask?",
+        "answer": "Yes, since the thermometer measures temperature via the ear canal, wearing a face mask does not interfere with its operation."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Display",
+        "question": "What does the 'Err' message on the display mean?",
+        "answer": "An 'Err' message indicates a malfunction. Remove the batteries, wait for a minute, reinsert them, and try again. If the problem persists, contact Philips Consumer Care."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Power",
+        "question": "Does the thermometer have an auto-off feature?",
+        "answer": "Yes, the thermometer automatically turns off after a period of inactivity to conserve battery life."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Replace",
+        "question": "When should I replace the thermometer?",
+        "answer": "If the device consistently provides inaccurate readings or shows signs of malfunction after battery replacement and resetting, consider replacing the thermometer."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Light",
+        "question": "What does the light ring around the power button indicate?",
+        "answer": "The light ring provides a visual indication of the measured temperature. A red light suggests a high temperature, while no light indicates a normal reading."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Alarm",
+        "question": "Does the thermometer have an audible alarm for high temperatures?",
+        "answer": "Yes, the thermometer emits two beeps when a measurement is complete. Additionally, the light ring may illuminate red to indicate a high temperature."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Humidity",
+        "question": "What is the acceptable operating humidity range for the thermometer?",
+        "answer": "The thermometer operates effectively in environments with 15% to 85% relative humidity, non-condensing."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Sleep",
+        "question": "Can I use the thermometer on a sleeping child?",
+        "answer": "Yes, the thermometer is designed for gentle and quick measurements, making it suitable for use on sleeping children without disturbing them."
+      },
+      {
+        "product": "Philips Infrared Thermometer",
+        "category": "Ramp",
+        "question": "Does the thermometer have a ramp feature?",
+        "answer": "No, the ramp feature is not applicable to this device."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Clean",
+        "question": "How should I clean the pre-filter?",
+        "answer": "Turn off and unplug the air purifier. Remove the pre-filter and use a vacuum cleaner to remove dust. Clean it every 2-4 weeks depending on usage."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Error",
+        "question": "What does the 'F0' error code mean?",
+        "answer": "The 'F0' code indicates that the pre-filter needs cleaning. After cleaning, reset the filter timer by pressing and holding the appropriate button for 3 seconds. :contentReference[oaicite:1]{index=1}"
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Setup",
+        "question": "How do I set up the air purifier for the first time?",
+        "answer": "Unpack the device, remove all packaging materials, install the filters in the correct order, plug in the device, and turn it on. Refer to the user manual for detailed instructions."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Maintenance",
+        "question": "How often should I replace the filters?",
+        "answer": "Replace the NanoProtect HEPA filter every 12 months and the activated carbon filter every 6 months, or as indicated by the filter replacement alert."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Alert",
+        "question": "What does the red air quality light indicate?",
+        "answer": "A red light indicates poor air quality. The purifier will automatically adjust its speed to clean the air."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Troubleshooting",
+        "question": "Why is the airflow weak?",
+        "answer": "Check if the filters are clogged or need replacement. Clean or replace them as necessary."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Filter",
+        "question": "Can I wash the HEPA filter?",
+        "answer": "No, the HEPA filter is not washable. Replace it when the filter replacement alert is on."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Battery",
+        "question": "Does the air purifier have a battery?",
+        "answer": "No, the air purifier operates only when plugged into a power outlet."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Tube",
+        "question": "Does the air purifier use any tubes?",
+        "answer": "No, the air purifier does not use any tubes."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Connect",
+        "question": "Can I connect the air purifier to Wi-Fi?",
+        "answer": "Yes, certain models support Wi-Fi connectivity. Refer to the user manual for setup instructions."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Start",
+        "question": "How do I start the air purifier?",
+        "answer": "Press the power button to turn on the device. It will start in auto mode by default."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Mask",
+        "question": "Can I use the air purifier while wearing a mask?",
+        "answer": "Yes, the air purifier can be used while wearing a mask."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Display",
+        "question": "What does the numerical PM2.5 display indicate?",
+        "answer": "It shows the concentration of particulate matter (PM2.5) in the air. Lower numbers indicate cleaner air."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Power",
+        "question": "What is the power consumption of the air purifier?",
+        "answer": "Power consumption varies by model. Refer to the product specifications in the user manual."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Replace",
+        "question": "How do I replace the filters?",
+        "answer": "Turn off and unplug the device, open the filter compartment, remove the old filters, and insert new ones in the correct order. Reset the filter timer afterward."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Light",
+        "question": "Can I turn off the air quality light?",
+        "answer": "Yes, press the light control button to dim or turn off the air quality light."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Alarm",
+        "question": "Does the air purifier have an alarm for filter replacement?",
+        "answer": "Yes, the device will alert you when it's time to replace the filters."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Humidity",
+        "question": "Does the air purifier control humidity?",
+        "answer": "Only specific models like the Series 5000 2-in-1 have dehumidifying functions. Others do not control humidity."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Sleep",
+        "question": "What is the sleep mode?",
+        "answer": "Sleep mode operates the purifier at the lowest noise level and dims the lights for nighttime use."
+      },
+      {
+        "product": "Philips Air Purifier Series 1000/2000/3000/5000",
+        "category": "Ramp",
+        "question": "Does the air purifier have a ramp-up feature?",
+        "answer": "No, the air purifier does not have a ramp-up feature."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Clean",
+        "question": "How should I clean the sterilizer?",
+        "answer": "After each use, unplug the sterilizer and allow it to cool. Wipe the heating plate with a damp cloth to remove any residue. Do not immerse the base in water. Clean the baskets and lid with warm soapy water."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Error",
+        "question": "What should I do if the sterilizer doesn't turn on?",
+        "answer": "Ensure the power cord is properly connected and the outlet is functioning. If the issue persists, contact Philips customer support."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Setup",
+        "question": "How do I set up the sterilizer for the first time?",
+        "answer": "Assemble the sterilizer by placing the large basket on the base, followed by the small basket. Fill the water reservoir with exactly 130 ml of water. Plug in the device and press the power button to start."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Maintenance",
+        "question": "How often should I descale the sterilizer?",
+        "answer": "Descale the sterilizer every 4 weeks or as needed, depending on water hardness. Use a mixture of 50 ml white vinegar and 50 ml water, run a cycle without items, then rinse thoroughly."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Alert",
+        "question": "Does the sterilizer have an alert for cycle completion?",
+        "answer": "Yes, the sterilizer has an indicator light that turns off when the cycle is complete, and the device automatically shuts off."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Troubleshooting",
+        "question": "Why is there a burning smell during operation?",
+        "answer": "Ensure the heating plate is clean and free from milk residue. Regular cleaning prevents unpleasant odors."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Filter",
+        "question": "Does the sterilizer have a filter that needs replacement?",
+        "answer": "No, the sterilizer does not have any filters that require replacement."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Battery",
+        "question": "Does the sterilizer operate on batteries?",
+        "answer": "No, the sterilizer operates only when plugged into a power outlet."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Tube",
+        "question": "Does the sterilizer use any tubes?",
+        "answer": "No, the sterilizer does not use any tubes."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Connect",
+        "question": "Can I connect the sterilizer to my smartphone?",
+        "answer": "No, the sterilizer does not have connectivity features."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Start",
+        "question": "How do I start a sterilization cycle?",
+        "answer": "Press the power button after filling the reservoir with water and placing items inside. The cycle will begin and last approximately 10 minutes."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Mask",
+        "question": "Can I use the sterilizer while wearing a face mask?",
+        "answer": "Yes, using a face mask does not interfere with the operation of the sterilizer."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Display",
+        "question": "Does the sterilizer have a digital display?",
+        "answer": "No, the sterilizer uses indicator lights to show the status of the cycle."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Power",
+        "question": "What is the power consumption of the sterilizer?",
+        "answer": "The power consumption is approximately 650 watts."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Replace",
+        "question": "When should I replace the sterilizer?",
+        "answer": "Replace the sterilizer if it shows signs of damage or malfunction that cannot be resolved through troubleshooting."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Light",
+        "question": "What does the indicator light signify?",
+        "answer": "The indicator light turns on during the sterilization cycle and turns off when the cycle is complete."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Alarm",
+        "question": "Does the sterilizer have an audible alarm?",
+        "answer": "No, the sterilizer does not have an audible alarm; it uses indicator lights to signal cycle completion."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Humidity",
+        "question": "Does humidity affect the sterilizer's performance?",
+        "answer": "High humidity may slightly affect drying efficiency, but sterilization effectiveness remains unchanged."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Sleep",
+        "question": "Can I run the sterilizer overnight?",
+        "answer": "Yes, but ensure the sterilizer is placed on a stable surface away from flammable materials and out of children's reach."
+      },
+      {
+        "product": "Philips AVENT Bottle Sterilizer SCF291/00",
+        "category": "Ramp",
+        "question": "Does the sterilizer have a ramp-up feature?",
+        "answer": "No, the sterilizer does not have a ramp-up feature."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Clean",
+        "question": "How should I clean the baby monitor?",
+        "answer": "Use a soft, dry cloth to clean the exterior of the baby monitor. Avoid using abrasive cleaners or submerging any part of the device in water."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Error",
+        "question": "What does it mean if the parent unit displays 'No Signal'?",
+        "answer": "This indicates a loss of connection between the parent unit and the baby unit. Ensure both units are powered on and within range. If the issue persists, try re-pairing the devices."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Setup",
+        "question": "How do I set up the baby monitor for the first time?",
+        "answer": "Download the Philips Avent Baby Monitor+ app on your smartphone. Follow the in-app instructions to connect the baby unit to your Wi-Fi network and pair it with the parent unit."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Maintenance",
+        "question": "How often should I update the firmware?",
+        "answer": "Regularly check the Philips Avent Baby Monitor+ app for firmware updates to ensure optimal performance and access to the latest features."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Alert",
+        "question": "What alerts does the monitor provide?",
+        "answer": "The monitor provides alerts for low battery, lost connection, temperature fluctuations, sound detection, and motion detection."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Troubleshooting",
+        "question": "Why is the video quality poor?",
+        "answer": "Poor video quality may be due to a weak Wi-Fi signal. Ensure the baby unit is within range of your Wi-Fi router and that there are minimal obstructions."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Filter",
+        "question": "Does the monitor have any filters that need replacement?",
+        "answer": "No, the Philips AVENT Premium Connected Baby Monitor does not have any filters that require replacement."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Battery",
+        "question": "What is the battery life of the parent unit?",
+        "answer": "The rechargeable parent unit offers up to 12 hours of battery life on a full charge."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Tube",
+        "question": "Does the monitor use any tubes?",
+        "answer": "No, the monitor does not use any tubes."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Connect",
+        "question": "Can I connect the monitor to my smartphone?",
+        "answer": "Yes, you can connect the monitor to your smartphone using the Philips Avent Baby Monitor+ app, available on iOS and Android."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Start",
+        "question": "How do I start monitoring my baby?",
+        "answer": "Power on both the baby unit and the parent unit. Ensure they are connected via Wi-Fi or direct link. You can also use the Baby Monitor+ app to monitor remotely."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Mask",
+        "question": "Can I use the monitor while wearing a face mask?",
+        "answer": "Yes, wearing a face mask does not interfere with the operation of the baby monitor."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Display",
+        "question": "What does the 5\" HD screen display?",
+        "answer": "The 5\" HD screen displays live video of your baby, along with indicators for temperature, humidity, battery status, and connection strength."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Power",
+        "question": "Does the monitor work without Wi-Fi?",
+        "answer": "Yes, the monitor can operate in direct link mode without Wi-Fi, providing a secure connection between the baby unit and the parent unit."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Replace",
+        "question": "When should I replace the monitor?",
+        "answer": "Replace the monitor if it shows signs of damage, malfunction, or if it no longer meets your monitoring needs."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Light",
+        "question": "Does the monitor have a nightlight feature?",
+        "answer": "Yes, the baby unit includes a multi-color nightlight that can be controlled via the parent unit or the Baby Monitor+ app."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Alarm",
+        "question": "Does the monitor have an alarm feature?",
+        "answer": "Yes, the monitor provides alarms for various alerts, including low battery, temperature changes, and sound or motion detection."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Humidity",
+        "question": "Does the monitor track room humidity?",
+        "answer": "Yes, the monitor includes a humidity sensor and will alert you if the room's humidity levels are outside the recommended range."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Sleep",
+        "question": "How does the monitor track my baby's sleep?",
+        "answer": "The monitor uses SenseIQ technology to analyze your baby's sleep patterns and breathing rate without the need for wearables, providing real-time updates and a sleep diary."
+      },
+      {
+        "product": "Philips AVENT Premium Connected Baby Monitor SCD973/37",
+        "category": "Ramp",
+        "question": "Does the monitor have a ramp-up feature?",
+        "answer": "No, the monitor does not have a ramp-up feature."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Clean",
+        "question": "How should I clean the Snoring Relief Band?",
+        "answer": "The chest strap is machine washable. Remove the sensor before washing, and lay the strap flat to air dry. Do not tumble dry. The sensor should be cleaned with a soft, dry cloth and must not be immersed in water."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Error",
+        "question": "What does it mean if the sensor doesn't start a sleep session?",
+        "answer": "Ensure the sensor is fully charged and properly inserted into the strap's pouch. Press and hold the activation button for two seconds to start a session. If issues persist, refer to the user manual or contact Philips support."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Setup",
+        "question": "How do I set up the Snoring Relief Band for the first time?",
+        "answer": "Charge the sensor for up to 8 hours before first use. Insert the sensor into the strap's pouch, ensuring the display and activation button are visible. Adjust the strap to fit snugly below your chest, and press the activation button for two seconds to start a sleep session."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Maintenance",
+        "question": "How often should I charge the sensor?",
+        "answer": "A fully charged sensor provides up to 8 sleep sessions. Charge the sensor when the battery low indicator blinks orange. Charging takes up to 8 hours."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Alert",
+        "question": "What alerts does the Snoring Relief Band provide?",
+        "answer": "The sensor provides gentle vibrations when it detects you're sleeping on your back, prompting you to change position. It also has indicators for battery status and displays data such as response rate, hours in bed, and hours on your back."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Troubleshooting",
+        "question": "Why isn't the sensor vibrating when I sleep on my back?",
+        "answer": "Ensure the adaptation phase has completed (after 8 sessions). Also, check that the sensor is correctly positioned and the strap is snug. If issues persist, consult the user manual or contact Philips support."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Filter",
+        "question": "Does the Snoring Relief Band have any filters that need replacement?",
+        "answer": "No, the Snoring Relief Band does not contain any filters requiring replacement."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Battery",
+        "question": "What type of battery does the sensor use?",
+        "answer": "The sensor contains a non-replaceable Lithium Polymer 3.7V battery. It is rechargeable and provides up to 8 sleep sessions per full charge."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Tube",
+        "question": "Does the Snoring Relief Band use any tubes?",
+        "answer": "No, the Snoring Relief Band does not use any tubes."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Connect",
+        "question": "Can I connect the Snoring Relief Band to my smartphone?",
+        "answer": "No, the Snoring Relief Band operates independently and does not have connectivity features."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Start",
+        "question": "How do I start a sleep session?",
+        "answer": "Press and hold the activation button on the sensor for two seconds. The sensor will vibrate briefly and display alternating dashes to indicate the session has started."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Mask",
+        "question": "Can I use the Snoring Relief Band while wearing a face mask?",
+        "answer": "Yes, wearing a face mask does not interfere with the operation of the Snoring Relief Band."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Display",
+        "question": "What information does the sensor display?",
+        "answer": "The sensor displays response rate (percentage of times you turned from your back to your side after vibration), hours spent in bed, and hours spent on your back."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Power",
+        "question": "Does the Snoring Relief Band work without being plugged in?",
+        "answer": "Yes, the Snoring Relief Band operates on a rechargeable battery and does not need to be plugged in during use."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Replace",
+        "question": "When should I replace the Snoring Relief Band?",
+        "answer": "Replace the Snoring Relief Band if it shows signs of damage, malfunction, or if the battery no longer holds a charge. The sensor contains a non-replaceable battery."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Light",
+        "question": "Does the Snoring Relief Band have any lights?",
+        "answer": "Yes, the sensor has indicator lights for battery status and displays data screens. It does not have a nightlight feature."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Alarm",
+        "question": "Does the Snoring Relief Band have an audible alarm?",
+        "answer": "No, the Snoring Relief Band uses gentle vibrations to prompt position changes and does not emit audible alarms."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Humidity",
+        "question": "Does humidity affect the Snoring Relief Band's performance?",
+        "answer": "The Snoring Relief Band is designed for indoor use under standard environmental conditions. Excessive humidity may affect its performance; avoid exposing the device to high humidity levels."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Sleep",
+        "question": "How does the Snoring Relief Band help improve sleep?",
+        "answer": "The band detects when you're sleeping on your back and delivers gentle vibrations to encourage side sleeping, reducing positional snoring and leading to quieter nights."
+      },
+      {
+        "product": "Philips SmartSleep Snoring Relief Band SN3710/60",
+        "category": "Ramp",
+        "question": "Does the Snoring Relief Band have a ramp-up feature?",
+        "answer": "Yes, the device has an adaptation phase where the number of vibrations increases over time. After the 8th session, the sensor vibrates every time you sleep on your back."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Clean",
+        "question": "How should I clean the headband and sensors?",
+        "answer": "Detach the forehead sensor and submerge it in a solution of dish soap and water. Use a soft-bristled brush to gently clean the surface, rinse thoroughly, and allow it to air dry. For the headband, use pre-moistened facial or makeup remover towelettes to wipe the inner lining, and let it air dry. Do not submerge the headband in water."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Error",
+        "question": "What does a pulsing green and orange light indicate?",
+        "answer": "A pulsing green and orange light signifies a headband error. Press the power button for 1 second to clear the error. If the pulsing continues, contact Philips customer support."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Setup",
+        "question": "How do I set up the headband for the first time?",
+        "answer": "Charge the headband fully before first use. Download the SleepMapper app, turn on the headband by pressing the power button for 1 second, and follow the in-app instructions to pair the device. Adjust the sliders for a snug fit, ensuring the forehead sensor is positioned correctly."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Maintenance",
+        "question": "How often should I replace the sensors?",
+        "answer": "Each self-adhesive sensor lasts between 1 to 3 nights, depending on skin conditions and usage. Replace the sensor when it no longer adheres properly or as needed."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Alert",
+        "question": "What do the indicator lights signify?",
+        "answer": "Solid green indicates a full charge, solid orange means the battery is not fully charged, pulsing orange signifies charging, and double pulsing orange indicates a critically low battery. The light turns off 30 minutes after full charge to conserve power."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Troubleshooting",
+        "question": "Why does the headband keep sliding off during the night?",
+        "answer": "Ensure the headband is tightened properly using the slider at the back. It should fit snugly but comfortably, with full contact between the sensors and your skin."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Filter",
+        "question": "Does the headband have any filters that need replacement?",
+        "answer": "No, the headband does not contain any filters requiring replacement."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Battery",
+        "question": "How do I charge the headband?",
+        "answer": "Charge the headband daily by plugging it into the provided charger immediately after taking it off in the morning. A full charge takes approximately 3 hours."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Tube",
+        "question": "Does the headband use any tubes?",
+        "answer": "No, the headband does not use any tubes."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Connect",
+        "question": "Can I connect the headband to my smartphone?",
+        "answer": "Yes, the headband connects to your smartphone via Bluetooth using the SleepMapper app. Ensure Bluetooth is enabled on your phone during setup and data syncing."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Start",
+        "question": "How do I start a sleep session?",
+        "answer": "Press the power button for 1 second to turn on the headband. Press it again to start your sleep session. The headband remembers your previous settings for fall asleep sounds and alarms."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Mask",
+        "question": "Can I use the headband while wearing a face mask?",
+        "answer": "Yes, wearing a face mask does not interfere with the operation of the headband."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Display",
+        "question": "What information does the SleepMapper app display?",
+        "answer": "The app displays your sleep patterns over time, measures key metrics, and shows the slow wave boost you receive each night."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Power",
+        "question": "Does the headband work without being plugged in?",
+        "answer": "Yes, the headband operates on a rechargeable battery and does not need to be plugged in during use."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Replace",
+        "question": "When should I replace the headband?",
+        "answer": "Replace the headband if it shows signs of damage, malfunction, or if the battery no longer holds a charge."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Light",
+        "question": "Does the headband have any lights?",
+        "answer": "Yes, the headband has indicator lights that display battery status and connection indicators."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Alarm",
+        "question": "Does the headband have an alarm feature?",
+        "answer": "Yes, the SmartAlarm feature wakes you during your light sleep stage to reduce sleep inertia. Set it in the SleepMapper app by selecting your desired wake-up time and window."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Humidity",
+        "question": "Does humidity affect the headband's performance?",
+        "answer": "High humidity may affect sensor adhesion. Ensure the sensors are properly applied and the headband is fitted snugly for optimal performance."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Sleep",
+        "question": "How does the headband improve sleep quality?",
+        "answer": "The headband detects when you're in deep sleep and delivers quiet audio tones to enhance slow wave activity, thereby improving sleep quality."
+      },
+      {
+        "product": "Philips SmartSleep Deep Sleep Headband",
+        "category": "Ramp",
+        "question": "Does the headband have a ramp-up feature?",
+        "answer": "No, the headband does not have a ramp-up feature."
+      }
+    
+    
+         
+       
+  ]
+  
