@@ -6,6 +6,7 @@ import {
   Button,
   useColorModeValue,
   useToast,
+  VStack,
 } from "@chakra-ui/react";
 import { FaMicrophone, FaTrash, FaDownload } from "react-icons/fa";
 import axios from "axios";
@@ -55,9 +56,7 @@ const ChatWrapper = () => {
     }, 50);
   };
 
-  const clearWasStopped = () => {
-    setWasStopped(false);
-  };
+  const clearWasStopped = () => setWasStopped(false);
 
   const onSend = async () => {
     if (!query.trim() || isGenerating) return;
@@ -225,43 +224,52 @@ const ChatWrapper = () => {
     <Flex
       direction="column"
       w="100%"
-      maxW={{ base: "100%", md: "800px" }}
+      h="100vh"
+      maxW={{ base: "100%", md: "900px" }}
       mx="auto"
-      my={4}
-      minH="85vh"
       borderWidth="1px"
       borderColor={borderClr}
       borderRadius="2xl"
-      boxShadow="lg"
-      overflow="hidden"
+      boxShadow="xl"
       bg={panelBg}
+      overflow="hidden"
     >
+      {/* Chat area */}
       <Box
         ref={scrollRef}
         flex="1"
         overflowY="auto"
         px={4}
         py={4}
-        sx={{ "&::-webkit-scrollbar": { width: "6px" } }}
+        sx={{
+          "&::-webkit-scrollbar": { width: "6px" },
+          "&::-webkit-scrollbar-thumb": {
+            background: useColorModeValue("#cbd5e0", "#4a5568"),
+            borderRadius: "6px",
+          },
+        }}
       >
-        {chat.length === 0 ? (
-          <Box
-            h="100%"
-            display="flex"
-            alignItems="center"
-            justifyContent="center"
-            color="gray.400"
-            fontSize="sm"
-          >
-            Ask your first question…
-          </Box>
-        ) : (
-          chat.map((msg, i) => (
-            <ChatBubble key={i} role={msg.role} content={msg.content} />
-          ))
-        )}
+        <VStack spacing={3} align="stretch">
+          {chat.length === 0 ? (
+            <Box
+              h="100%"
+              display="flex"
+              alignItems="center"
+              justifyContent="center"
+              color="gray.400"
+              fontSize="sm"
+            >
+              Ask your first question…
+            </Box>
+          ) : (
+            chat.map((msg, i) => (
+              <ChatBubble key={i} role={msg.role} content={msg.content} />
+            ))
+          )}
+        </VStack>
       </Box>
 
+      {/* Footer */}
       <Box px={6} py={4} bg={footerBg}>
         <FileUpload onExtract={setQuery} onXrayResult={onXrayResult} />
 
@@ -285,6 +293,7 @@ const ChatWrapper = () => {
               icon={<FaMicrophone />}
               colorScheme="teal"
               size="lg"
+              borderRadius="xl"
               isDisabled={isGenerating}
             />
           </AudioRecorder>
@@ -297,6 +306,7 @@ const ChatWrapper = () => {
             variant="ghost"
             onClick={clearChat}
             size="sm"
+            borderRadius="lg"
           >
             Clear Chat
           </Button>
@@ -306,6 +316,7 @@ const ChatWrapper = () => {
             variant="ghost"
             onClick={exportChat}
             size="sm"
+            borderRadius="lg"
           >
             Export Chat
           </Button>
